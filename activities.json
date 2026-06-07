@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T12:00:57.165914Z",
+  "last_updated": "2026-06-07T12:16:30.357656Z",
   "activity_count": 200,
   "activities": [
     {
@@ -26,7 +26,7 @@
       "location_state": null,
       "location_country": null,
       "achievement_count": 0,
-      "kudos_count": 7,
+      "kudos_count": 9,
       "comment_count": 0,
       "athlete_count": 1,
       "photo_count": 0,
@@ -1653,7 +1653,7 @@
       "achievement_count": 26,
       "kudos_count": 92,
       "comment_count": 23,
-      "athlete_count": 155,
+      "athlete_count": 154,
       "photo_count": 0,
       "map": {
         "id": "a18265573134",
