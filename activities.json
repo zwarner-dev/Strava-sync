@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T17:27:30.350243Z",
+  "last_updated": "2026-06-14T13:16:21.432309Z",
   "activity_count": 200,
   "activities": [
     {
@@ -6875,7 +6875,7 @@
       "location_city": null,
       "location_state": null,
       "location_country": null,
-      "achievement_count": 5,
+      "achievement_count": 6,
       "kudos_count": 29,
       "comment_count": 1,
       "athlete_count": 1,
@@ -9675,7 +9675,7 @@
       "location_city": null,
       "location_state": null,
       "location_country": null,
-      "achievement_count": 17,
+      "achievement_count": 20,
       "kudos_count": 23,
       "comment_count": 1,
       "athlete_count": 7,
@@ -9714,7 +9714,7 @@
       "upload_id_str": "17090916528",
       "external_id": "ADDFAB34-90D1-429C-A716-0277F019AB9A-activity.fit",
       "from_accepted_tag": false,
-      "pr_count": 4,
+      "pr_count": 5,
       "total_photo_count": 0,
       "has_kudoed": false
     },
@@ -11454,7 +11454,7 @@
       "location_city": null,
       "location_state": null,
       "location_country": null,
-      "achievement_count": 7,
+      "achievement_count": 8,
       "kudos_count": 13,
       "comment_count": 0,
       "athlete_count": 1,
