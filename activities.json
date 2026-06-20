@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-06-19T16:38:33.850391Z",
+  "last_updated": "2026-06-20T12:25:38.394981Z",
   "activity_count": 200,
   "activities": [
+    {
+      "resource_state": 2,
+      "athlete": {
+        "id": 18129104,
+        "resource_state": 1
+      },
+      "name": "NJ bike pack",
+      "distance": 87451.4,
+      "moving_time": 17437,
+      "elapsed_time": 40088,
+      "total_elevation_gain": 687.0,
+      "type": "Ride",
+      "sport_type": "Ride",
+      "workout_type": null,
+      "device_name": "Strava App",
+      "id": 18990557608,
+      "start_date": "2026-06-19T13:39:21Z",
+      "start_date_local": "2026-06-19T09:39:21Z",
+      "timezone": "(GMT-05:00) America/New_York",
+      "utc_offset": -14400.0,
+      "location_city": null,
+      "location_state": null,
+      "location_country": null,
+      "achievement_count": 0,
+      "kudos_count": 20,
+      "comment_count": 0,
+      "athlete_count": 3,
+      "photo_count": 0,
+      "map": {
+        "id": "a18990557608",
+        "summary_polyline": "k_fwFj`chM_HIOwPgCcMmFaF{M}CwE_DcGaOmF}HuE_RaD{DmEaAqPlAmPgBgEnBsFrHkFNcEiEmEoPqDkHaSsF}HwLsVyGyAsDm@oNcGuP}G{IqHoQeLwQoTaV}Kq^w\\}v@}D{TiGmHs|@mTsl@_e@_VqIkH`@yRnL{S`C_aAiLiLwGcTce@gVuNgFkFqE}JgF}[iMoTkWyp@se@yt@mJeb@rL}BGz@UkB}KvCaCoMzD}FsEmHaBuH{B~AUcA~@eBoGwCoU{SoGyJkMei@oIy~@oA{EelB{vCgIoGiYua@k]fFuDtM{DlGaS|L}EvV}@xWiFbMxC|Us@dJiDdLaLvSaA{EuDgB}AeGwNgUeEaDiHwAgJjBwQvJhJlb@e`@v^oDkKmC}CaTyCu@f@p@lGcC`IqFU}GzGkJ_NqCeJ|AyAeBdAmAoCFk@F`AlBnFVBl@h@k@q@l@a@QfAq@a@_@_C{OmWyGuSKcGr@Y}DdAiCmB}GUsJmHuJaCwM`CcMpL~@wBgLqT}IrBeS^oOcRkTyB}MlI~BxMq@j@cNvBeCgEg@f@^i@u@}@_HHcLwBu\\zLeHuCiKzRqFjSeJpPk@vTbD|RtM|\\tG|KvFhDxD~GnGbOhArIo\\|XI_C~AoCmAgBnCaAy@eGiIrAwAgCsDe@k@qBqEaDReGz@yAoBeESeFj@g@k@\\vAcDuAfDpFiNrI}MWc@fApB~F~MtIjH|CtFfGfO~AzIgPxM_R`UFgAqD_GoE_EuGaLkFmXq@sJpCmHcDaDyB}[`AkAgBoDyAtC}EmNmIoB{BeJ}@e@v@d@pBvIq@a@kK}T}@mg@gBwQqF~DuEv@qw@{EsVbIqLt@qIiCkHeLsEcCat@l@uEwBoKq@mHvAzAo@E_Cg@bCaIrFwOlEo_@`A__@nLwMrAm@kAAfAmBt@mA?bSqBqi@TuQ_FeJRkZ`M_j@jD{m@rWmW|A_MsAkOuGi^mJ}Iq@o^bAwp@gQaqAmQyHpAqEpDuKhTwDdD{CbJcIlJ_JbFaFqAmCbCd@_@ueHwzHcFdOmHpJizAdmAoGqH`AiCX_C@lACgAoAn@b@~B}AbCoCRLwD`GmCYxC{@vAmDaCwAfAwf@`aA}Ur{@_IvK{d@lXyL|YiHx`@gCKz@_@w@Mv@VFd@BYMwBfCr@pH}`@xLaXra@{UrJyLfVg|@|J}TdZ}h@hL}LpLuHvOQxDeBvCiFzGo\\bVeWiH_Ns^iRcHoAwK_AcO~HiNbAoFoAc@nH",
+        "resource_state": 2
+      },
+      "trainer": false,
+      "commute": false,
+      "manual": false,
+      "private": false,
+      "visibility": "everyone",
+      "flagged": false,
+      "gear_id": "b3320936",
+      "start_latlng": [
+        40.66728,
+        -74.895802
+      ],
+      "end_latlng": [
+        41.124363,
+        -74.699776
+      ],
+      "average_speed": 5.015,
+      "max_speed": 14.24,
+      "average_watts": 94.7,
+      "device_watts": false,
+      "kilojoules": 1651.9,
+      "has_heartrate": false,
+      "heartrate_opt_out": false,
+      "display_hide_heartrate_option": false,
+      "elev_high": 329.0,
+      "elev_low": 96.0,
+      "upload_id": 20104059196,
+      "upload_id_str": "20104059196",
+      "external_id": "AA165C8D-F5E2-400F-9CD2-95BA36E606A1-activity.fit",
+      "from_accepted_tag": false,
+      "pr_count": 0,
+      "total_photo_count": 8,
+      "has_kudoed": false
+    },
     {
       "resource_state": 2,
       "athlete": {
@@ -26,7 +92,7 @@
       "location_state": null,
       "location_country": null,
       "achievement_count": 1,
-      "kudos_count": 23,
+      "kudos_count": 24,
       "comment_count": 0,
       "athlete_count": 1,
       "photo_count": 0,
@@ -12703,69 +12769,6 @@
       "from_accepted_tag": false,
       "pr_count": 0,
       "total_photo_count": 0,
-      "has_kudoed": false
-    },
-    {
-      "resource_state": 2,
-      "athlete": {
-        "id": 18129104,
-        "resource_state": 1
-      },
-      "name": "Portland",
-      "distance": 8016.1,
-      "moving_time": 2530,
-      "elapsed_time": 2865,
-      "total_elevation_gain": 78.1,
-      "type": "Run",
-      "sport_type": "Run",
-      "workout_type": 0,
-      "device_name": "Strava App",
-      "id": 15359075988,
-      "start_date": "2025-08-05T22:29:29Z",
-      "start_date_local": "2025-08-05T18:29:29Z",
-      "timezone": "(GMT-05:00) America/New_York",
-      "utc_offset": -14400.0,
-      "location_city": null,
-      "location_state": null,
-      "location_country": null,
-      "achievement_count": 0,
-      "kudos_count": 30,
-      "comment_count": 0,
-      "athlete_count": 1,
-      "photo_count": 0,
-      "map": {
-        "id": "a15359075988",
-        "summary_polyline": "_hniGdnwkLL[NSFKLKL[NIBMEKkBaD{@eAEMeBgCOYIUYe@Io@g@{@g@m@}@uA]y@Uu@g@oAi@iAk@{A_@u@_@i@g@aA_AuASa@_A_AM[{BwDk@q@_@_@YSgAe@o@QeAEw@?KBMAuATw@Vw@d@SRq@d@mAjAUJg@b@UJYTSRKNaA|@oAfBK\\[f@EPMVQh@sAtEm@|BqAfES`@cA~CWn@Y~@Sj@M^ARFR?LOT_@x@k@xBm@`BMj@w@|@c@r@[fB[xBWhCYtBKbBCNAh@J~@q@~EA`EBXJ`@D^DRJNP?HDDf@C]BKJ?@KBAFB?DJJVAJGFKGWA_@B]JSX_@\\OFK^GBHSRCZRh@N@PEFIHUAITOPGJ@BVTP\\DLFT?PAl@QTUn@[ZWFAJCTFHHLBP?NEVMh@e@XKHKVMXUj@YJM^QFGLCVMJIVMLKLGBE\\M`@WZKNORGd@YT@Z`@JVZf@?JHLLLJPHr@BJHDPj@RZZp@r@`AHDDb@LTp@p@LXXv@zAxCj@v@r@pALHLCHBJZ`@h@`@V@J^^LV`A~@NTJFN`@b@z@x@rABNAP@FLF`@v@RV|@lBVZBPXZFRJ?HEHOXQPWRMDAD_@BETU`@k@LAFBNTNLb@v@DNhA~BLTJFDOb@a@BKTWDMFEHQz@gABIDCLMDKHGZk@HGHQNQBKJKBG?GKKAG@QNI\\c@h@y@b@g@Tc@NOP[^a@BQCKECE?My@IIQa@IIO_@?GDORYJQDc@JW?m@FUHEP[`@a@R]DATUHCNMJMB]J[CMc@s@MYKKUw@Ua@G_@@ME[ESWWAOg@}@M_@SUK[ECMk@IMIUa@y@W]Qs@a@{@KQUo@EE@KSGEG@E]_@CMEE_@y@CUk@gAGIKYe@{@GYM[BONKLWCEJG\\k@RSHS?CQSGQECSg@c@m@k@UIKGKQMUGOKQEKICGKIUCSQOEI@UOKAk@e@EK[e@Oe@a@iCEw@Kc@IiAS{@AMGMEMQ]IIGS[YCIi@k@KE[]ICQY]YOSGCCIoAuAIQHTj@l@FLJFHNHDj@t@DBNRTN\\\\DHB@FHBPBDJB~@vAJXFLBTHPFt@FZNlBFFDb@L`@Hh@Tr@`AdAXLNRPHBDJ@XTL@TPN@DJTLJ@^ZBJLFJN^RDJHF",
-        "resource_state": 2
-      },
-      "trainer": false,
-      "commute": false,
-      "manual": false,
-      "private": false,
-      "visibility": "everyone",
-      "flagged": false,
-      "gear_id": "g23798543",
-      "start_latlng": [
-        43.659488,
-        -70.250281
-      ],
-      "end_latlng": [
-        43.659523,
-        -70.250333
-      ],
-      "average_speed": 3.168,
-      "max_speed": 4.7,
-      "has_heartrate": false,
-      "heartrate_opt_out": false,
-      "display_hide_heartrate_option": false,
-      "elev_high": 29.1,
-      "elev_low": 2.5,
-      "upload_id": 16402343729,
-      "upload_id_str": "16402343729",
-      "external_id": "38F3EF4D-357E-4156-9FEF-B3A8662E48CC-activity.fit",
-      "from_accepted_tag": false,
-      "pr_count": 0,
-      "total_photo_count": 4,
       "has_kudoed": false
     }
   ]
