@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-06-24T10:15:29.508482Z",
+  "last_updated": "2026-06-25T10:12:07.839716Z",
   "activity_count": 200,
   "activities": [
     {
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Go vote!",
@@ -18,6 +19,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 19035050122,
+      "id_str": "19035050122",
       "start_date": "2026-06-23T10:41:53Z",
       "start_date_local": "2026-06-23T06:41:53Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -26,7 +28,7 @@
       "location_state": null,
       "location_country": null,
       "achievement_count": 2,
-      "kudos_count": 18,
+      "kudos_count": 19,
       "comment_count": 0,
       "athlete_count": 1,
       "photo_count": 0,
@@ -69,6 +71,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "NJ day 3",
@@ -81,6 +84,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 19014027745,
+      "id_str": "19014027745",
       "start_date": "2026-06-21T14:36:50Z",
       "start_date_local": "2026-06-21T10:36:50Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -135,6 +139,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Solstice ride",
@@ -147,6 +152,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 19011065553,
+      "id_str": "19011065553",
       "start_date": "2026-06-20T14:55:23Z",
       "start_date_local": "2026-06-20T10:55:23Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -201,6 +207,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "NJ bike pack",
@@ -213,6 +220,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18990557608,
+      "id_str": "18990557608",
       "start_date": "2026-06-19T13:39:21Z",
       "start_date_local": "2026-06-19T09:39:21Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -267,6 +275,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -279,6 +288,7 @@
       "workout_type": 0,
       "device_name": "Garmin Forerunner 55",
       "id": 18970666115,
+      "id_str": "18970666115",
       "start_date": "2026-06-18T11:13:49Z",
       "start_date_local": "2026-06-18T07:13:49Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -334,6 +344,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -346,6 +357,7 @@
       "workout_type": 0,
       "device_name": "Garmin Forerunner 55",
       "id": 18942908613,
+      "id_str": "18942908613",
       "start_date": "2026-06-16T11:08:46Z",
       "start_date_local": "2026-06-16T07:08:46Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -401,6 +413,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Evening Run",
@@ -413,6 +426,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18924120861,
+      "id_str": "18924120861",
       "start_date": "2026-06-11T22:34:46Z",
       "start_date_local": "2026-06-11T18:34:46Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -464,6 +478,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -476,6 +491,7 @@
       "workout_type": 0,
       "device_name": "Garmin Forerunner 55",
       "id": 18849939437,
+      "id_str": "18849939437",
       "start_date": "2026-06-09T11:48:19Z",
       "start_date_local": "2026-06-09T07:48:19Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -531,6 +547,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -543,6 +560,7 @@
       "workout_type": null,
       "device_name": "Garmin Forerunner 55",
       "id": 18836009132,
+      "id_str": "18836009132",
       "start_date": "2026-06-08T10:45:20Z",
       "start_date_local": "2026-06-08T06:45:20Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -598,6 +616,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "New York I love you",
@@ -610,6 +629,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18831909494,
+      "id_str": "18831909494",
       "start_date": "2026-06-07T18:43:03Z",
       "start_date_local": "2026-06-07T14:43:03Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -664,6 +684,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -676,6 +697,7 @@
       "workout_type": null,
       "device_name": "Garmin Forerunner 55",
       "id": 18798359014,
+      "id_str": "18798359014",
       "start_date": "2026-06-05T10:33:11Z",
       "start_date_local": "2026-06-05T06:33:11Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -731,6 +753,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Thursday tempo",
@@ -743,6 +766,7 @@
       "workout_type": null,
       "device_name": "Garmin Forerunner 55",
       "id": 18782349777,
+      "id_str": "18782349777",
       "start_date": "2026-06-04T10:14:16Z",
       "start_date_local": "2026-06-04T06:14:16Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -798,6 +822,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tuesday track",
@@ -810,6 +835,7 @@
       "workout_type": null,
       "device_name": "Garmin Forerunner 55",
       "id": 18754678905,
+      "id_str": "18754678905",
       "start_date": "2026-06-02T10:17:47Z",
       "start_date_local": "2026-06-02T06:17:47Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -865,6 +891,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -877,6 +904,7 @@
       "workout_type": 0,
       "device_name": "Garmin Forerunner 55",
       "id": 18729115002,
+      "id_str": "18729115002",
       "start_date": "2026-05-31T12:00:50Z",
       "start_date_local": "2026-05-31T08:00:50Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -932,6 +960,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sbrc Friday",
@@ -944,6 +973,7 @@
       "workout_type": null,
       "device_name": "Garmin Forerunner 55",
       "id": 18701590093,
+      "id_str": "18701590093",
       "start_date": "2026-05-29T10:40:20Z",
       "start_date_local": "2026-05-29T06:40:20Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -999,6 +1029,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Thursday tempo",
@@ -1011,6 +1042,7 @@
       "workout_type": 0,
       "device_name": "Garmin Forerunner 55",
       "id": 18687849225,
+      "id_str": "18687849225",
       "start_date": "2026-05-28T10:06:25Z",
       "start_date_local": "2026-05-28T06:06:25Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1066,6 +1098,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tuesday evening park loop",
@@ -1078,6 +1111,7 @@
       "workout_type": 0,
       "device_name": "Garmin Forerunner 55",
       "id": 18668099106,
+      "id_str": "18668099106",
       "start_date": "2026-05-26T22:42:01Z",
       "start_date_local": "2026-05-26T18:42:01Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1133,6 +1167,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Afternoon Run",
@@ -1145,6 +1180,7 @@
       "workout_type": null,
       "device_name": "Garmin Connect",
       "id": 18661527910,
+      "id_str": "18661527910",
       "start_date": "2026-05-25T20:42:20Z",
       "start_date_local": "2026-05-25T16:42:20Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1200,6 +1236,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Saturday long run",
@@ -1212,6 +1249,7 @@
       "workout_type": 0,
       "device_name": "Garmin Forerunner 265",
       "id": 18622801697,
+      "id_str": "18622801697",
       "start_date": "2026-05-23T12:01:01Z",
       "start_date_local": "2026-05-23T08:01:01Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1263,6 +1301,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Errands",
@@ -1275,6 +1314,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18614719735,
+      "id_str": "18614719735",
       "start_date": "2026-05-22T21:48:40Z",
       "start_date_local": "2026-05-22T17:48:40Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1329,6 +1369,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Friday sbrc",
@@ -1341,6 +1382,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18607861360,
+      "id_str": "18607861360",
       "start_date": "2026-05-22T10:38:08Z",
       "start_date_local": "2026-05-22T06:38:08Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1392,6 +1434,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -1404,6 +1447,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18595120621,
+      "id_str": "18595120621",
       "start_date": "2026-05-21T12:21:55Z",
       "start_date_local": "2026-05-21T08:21:55Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1455,6 +1499,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tuesday track",
@@ -1467,6 +1512,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18566663397,
+      "id_str": "18566663397",
       "start_date": "2026-05-19T10:33:52Z",
       "start_date_local": "2026-05-19T06:33:52Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1518,6 +1564,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Nature with my friends",
@@ -1530,6 +1577,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18548486628,
+      "id_str": "18548486628",
       "start_date": "2026-05-17T13:48:15Z",
       "start_date_local": "2026-05-17T09:48:15Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1584,6 +1632,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -1596,6 +1645,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18535258445,
+      "id_str": "18535258445",
       "start_date": "2026-05-16T11:51:16Z",
       "start_date_local": "2026-05-16T07:51:16Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1647,6 +1697,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -1659,6 +1710,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 18535258458,
+      "id_str": "18535258458",
       "start_date": "2026-05-15T10:51:04Z",
       "start_date_local": "2026-05-15T06:51:04Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1710,6 +1762,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -1722,6 +1775,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18475679537,
+      "id_str": "18475679537",
       "start_date": "2026-05-12T10:41:37Z",
       "start_date_local": "2026-05-12T06:41:37Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1773,6 +1827,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Camp \u2014> train",
@@ -1785,6 +1840,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18454682490,
+      "id_str": "18454682490",
       "start_date": "2026-05-10T14:24:20Z",
       "start_date_local": "2026-05-10T10:24:20Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1839,6 +1895,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Lunch Ride",
@@ -1851,6 +1908,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18453383114,
+      "id_str": "18453383114",
       "start_date": "2026-05-09T16:32:09Z",
       "start_date_local": "2026-05-09T12:32:09Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1905,6 +1963,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Taconic state park",
@@ -1917,6 +1976,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18436580535,
+      "id_str": "18436580535",
       "start_date": "2026-05-08T16:26:46Z",
       "start_date_local": "2026-05-08T12:26:46Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -1971,6 +2031,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -1983,6 +2044,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18411004505,
+      "id_str": "18411004505",
       "start_date": "2026-05-07T10:53:27Z",
       "start_date_local": "2026-05-07T06:53:27Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2034,6 +2096,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Bike bus w/ @mayormamdani",
@@ -2046,6 +2109,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18400879788,
+      "id_str": "18400879788",
       "start_date": "2026-05-06T11:08:10Z",
       "start_date_local": "2026-05-06T07:08:10Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2100,6 +2164,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -2112,6 +2177,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18384403833,
+      "id_str": "18384403833",
       "start_date": "2026-05-05T11:32:37Z",
       "start_date_local": "2026-05-05T07:32:37Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2163,6 +2229,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -2175,6 +2242,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18333836429,
+      "id_str": "18333836429",
       "start_date": "2026-05-01T10:58:02Z",
       "start_date_local": "2026-05-01T06:58:02Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2226,6 +2294,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Park loop",
@@ -2238,6 +2307,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18317894188,
+      "id_str": "18317894188",
       "start_date": "2026-04-30T10:46:15Z",
       "start_date_local": "2026-04-30T06:46:15Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2289,6 +2359,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Bk experience",
@@ -2301,6 +2372,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18265573134,
+      "id_str": "18265573134",
       "start_date": "2026-04-26T10:47:13Z",
       "start_date_local": "2026-04-26T06:47:13Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2352,6 +2424,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -2364,6 +2437,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18263477489,
+      "id_str": "18263477489",
       "start_date": "2026-04-25T13:35:44Z",
       "start_date_local": "2026-04-25T09:35:44Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2415,6 +2489,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect",
@@ -2427,6 +2502,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18196424119,
+      "id_str": "18196424119",
       "start_date": "2026-04-21T11:17:45Z",
       "start_date_local": "2026-04-21T07:17:45Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2478,6 +2554,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -2490,6 +2567,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18183283913,
+      "id_str": "18183283913",
       "start_date": "2026-04-20T11:01:26Z",
       "start_date_local": "2026-04-20T07:01:26Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2541,6 +2619,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Saturday long run",
@@ -2553,6 +2632,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18163137658,
+      "id_str": "18163137658",
       "start_date": "2026-04-18T11:56:37Z",
       "start_date_local": "2026-04-18T07:56:37Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2604,6 +2684,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -2616,6 +2697,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18103970196,
+      "id_str": "18103970196",
       "start_date": "2026-04-14T11:12:06Z",
       "start_date_local": "2026-04-14T07:12:06Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2667,6 +2749,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -2679,6 +2762,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18090437519,
+      "id_str": "18090437519",
       "start_date": "2026-04-13T10:46:10Z",
       "start_date_local": "2026-04-13T06:46:10Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2730,6 +2814,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -2742,6 +2827,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18068105061,
+      "id_str": "18068105061",
       "start_date": "2026-04-11T12:10:25Z",
       "start_date_local": "2026-04-11T08:10:25Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2793,6 +2879,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Evening Ride",
@@ -2805,6 +2892,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18053619314,
+      "id_str": "18053619314",
       "start_date": "2026-04-09T22:29:50Z",
       "start_date_local": "2026-04-09T18:29:50Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2859,6 +2947,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -2871,6 +2960,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 18040175003,
+      "id_str": "18040175003",
       "start_date": "2026-04-09T11:37:52Z",
       "start_date_local": "2026-04-09T07:37:52Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2922,6 +3012,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Fahnestock 200K",
@@ -2934,6 +3025,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17987131092,
+      "id_str": "17987131092",
       "start_date": "2026-04-04T11:30:41Z",
       "start_date_local": "2026-04-04T07:30:41Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -2988,6 +3080,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tempo",
@@ -3000,6 +3093,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17948903700,
+      "id_str": "17948903700",
       "start_date": "2026-04-02T10:06:03Z",
       "start_date_local": "2026-04-02T06:06:03Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3051,6 +3145,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Bike bus",
@@ -3063,6 +3158,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17947614932,
+      "id_str": "17947614932",
       "start_date": "2026-04-01T11:03:58Z",
       "start_date_local": "2026-04-01T07:03:58Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3117,6 +3213,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -3129,6 +3226,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17924091579,
+      "id_str": "17924091579",
       "start_date": "2026-03-31T11:35:29Z",
       "start_date_local": "2026-03-31T07:35:29Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3180,6 +3278,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -3192,6 +3291,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17911848170,
+      "id_str": "17911848170",
       "start_date": "2026-03-30T12:02:04Z",
       "start_date_local": "2026-03-30T08:02:04Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3243,6 +3343,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Friday sbrc",
@@ -3255,6 +3356,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17876049207,
+      "id_str": "17876049207",
       "start_date": "2026-03-27T10:42:33Z",
       "start_date_local": "2026-03-27T06:42:33Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3306,6 +3408,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tnsr",
@@ -3318,6 +3421,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17872742699,
+      "id_str": "17872742699",
       "start_date": "2026-03-26T21:47:22Z",
       "start_date_local": "2026-03-26T17:47:22Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3372,6 +3476,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -3384,6 +3489,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17864286284,
+      "id_str": "17864286284",
       "start_date": "2026-03-26T11:08:47Z",
       "start_date_local": "2026-03-26T07:08:47Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3435,6 +3541,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Ride",
@@ -3447,6 +3554,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17823442165,
+      "id_str": "17823442165",
       "start_date": "2026-03-22T12:58:54Z",
       "start_date_local": "2026-03-22T08:58:54Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3501,6 +3609,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sat long run",
@@ -3513,6 +3622,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17805566565,
+      "id_str": "17805566565",
       "start_date": "2026-03-21T12:05:34Z",
       "start_date_local": "2026-03-21T08:05:34Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3564,6 +3674,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -3576,6 +3687,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17790750594,
+      "id_str": "17790750594",
       "start_date": "2026-03-20T11:17:25Z",
       "start_date_local": "2026-03-20T07:17:25Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3627,6 +3739,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Thursday tempo",
@@ -3639,6 +3752,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17777951023,
+      "id_str": "17777951023",
       "start_date": "2026-03-19T09:37:21Z",
       "start_date_local": "2026-03-19T05:37:21Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3690,6 +3804,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -3702,6 +3817,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17766892284,
+      "id_str": "17766892284",
       "start_date": "2026-03-18T11:53:33Z",
       "start_date_local": "2026-03-18T07:53:33Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -3753,6 +3869,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "St. George Utah",
@@ -3765,6 +3882,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17765489914,
+      "id_str": "17765489914",
       "start_date": "2026-03-16T22:15:38Z",
       "start_date_local": "2026-03-16T16:15:38Z",
       "timezone": "(GMT-07:00) America/Denver",
@@ -3816,6 +3934,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Moab hike",
@@ -3827,6 +3946,7 @@
       "sport_type": "Hike",
       "device_name": "Strava App",
       "id": 17741814463,
+      "id_str": "17741814463",
       "start_date": "2026-03-15T18:42:17Z",
       "start_date_local": "2026-03-15T12:42:17Z",
       "timezone": "(GMT-07:00) America/Denver",
@@ -3878,6 +3998,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Zion bike :)",
@@ -3890,6 +4011,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17725035886,
+      "id_str": "17725035886",
       "start_date": "2026-03-14T15:33:36Z",
       "start_date_local": "2026-03-14T09:33:36Z",
       "timezone": "(GMT-07:00) America/Denver",
@@ -3944,6 +4066,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Thursday Tempo",
@@ -3956,6 +4079,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17696897612,
+      "id_str": "17696897612",
       "start_date": "2026-03-12T09:44:51Z",
       "start_date_local": "2026-03-12T05:44:51Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4007,6 +4131,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Bike bus",
@@ -4019,6 +4144,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17691161171,
+      "id_str": "17691161171",
       "start_date": "2026-03-11T11:30:52Z",
       "start_date_local": "2026-03-11T07:30:52Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4073,6 +4199,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sat long run",
@@ -4085,6 +4212,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17639482882,
+      "id_str": "17639482882",
       "start_date": "2026-03-07T13:13:40Z",
       "start_date_local": "2026-03-07T08:13:40Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4136,6 +4264,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -4148,6 +4277,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17631336884,
+      "id_str": "17631336884",
       "start_date": "2026-03-06T11:39:13Z",
       "start_date_local": "2026-03-06T06:39:13Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4199,6 +4329,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -4211,6 +4342,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17595728118,
+      "id_str": "17595728118",
       "start_date": "2026-03-03T23:59:34Z",
       "start_date_local": "2026-03-03T18:59:34Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4262,6 +4394,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Snowy loop",
@@ -4274,6 +4407,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17517575079,
+      "id_str": "17517575079",
       "start_date": "2026-02-25T11:50:48Z",
       "start_date_local": "2026-02-25T06:50:48Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4325,6 +4459,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -4337,6 +4472,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17460755323,
+      "id_str": "17460755323",
       "start_date": "2026-02-20T11:42:25Z",
       "start_date_local": "2026-02-20T06:42:25Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4388,6 +4524,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -4400,6 +4537,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17450472932,
+      "id_str": "17450472932",
       "start_date": "2026-02-19T12:34:22Z",
       "start_date_local": "2026-02-19T07:34:22Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4451,6 +4589,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -4463,6 +4602,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17429382844,
+      "id_str": "17429382844",
       "start_date": "2026-02-17T12:42:26Z",
       "start_date_local": "2026-02-17T07:42:26Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4514,6 +4654,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Afternoon Ride",
@@ -4526,6 +4667,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17421782371,
+      "id_str": "17421782371",
       "start_date": "2026-02-16T19:57:42Z",
       "start_date_local": "2026-02-16T14:57:42Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4580,6 +4722,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Afternoon Ride",
@@ -4592,6 +4735,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17399940113,
+      "id_str": "17399940113",
       "start_date": "2026-02-14T20:10:57Z",
       "start_date_local": "2026-02-14T15:10:57Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4646,6 +4790,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Saturday long run",
@@ -4658,6 +4803,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17396820885,
+      "id_str": "17396820885",
       "start_date": "2026-02-14T13:08:56Z",
       "start_date_local": "2026-02-14T08:08:56Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4709,6 +4855,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sbrc Friday run",
@@ -4721,6 +4868,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17383900744,
+      "id_str": "17383900744",
       "start_date": "2026-02-13T11:39:01Z",
       "start_date_local": "2026-02-13T06:39:01Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4772,6 +4920,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Post work",
@@ -4784,6 +4933,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17368988389,
+      "id_str": "17368988389",
       "start_date": "2026-02-11T23:01:17Z",
       "start_date_local": "2026-02-11T18:01:17Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4835,6 +4985,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -4847,6 +4998,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17351332288,
+      "id_str": "17351332288",
       "start_date": "2026-02-10T12:34:55Z",
       "start_date_local": "2026-02-10T07:34:55Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4898,6 +5050,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -4910,6 +5063,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17343596716,
+      "id_str": "17343596716",
       "start_date": "2026-02-09T11:39:16Z",
       "start_date_local": "2026-02-09T06:39:16Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -4961,6 +5115,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Friday sbrc",
@@ -4973,6 +5128,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17305961568,
+      "id_str": "17305961568",
       "start_date": "2026-02-06T11:53:01Z",
       "start_date_local": "2026-02-06T06:53:01Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5024,6 +5180,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Thursday tempo",
@@ -5036,6 +5193,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17294816591,
+      "id_str": "17294816591",
       "start_date": "2026-02-05T10:39:14Z",
       "start_date_local": "2026-02-05T05:39:14Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5087,6 +5245,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect",
@@ -5099,6 +5258,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17271736537,
+      "id_str": "17271736537",
       "start_date": "2026-02-03T12:28:20Z",
       "start_date_local": "2026-02-03T07:28:20Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5150,6 +5310,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Chilly Friday",
@@ -5162,6 +5323,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17227546819,
+      "id_str": "17227546819",
       "start_date": "2026-01-30T11:41:50Z",
       "start_date_local": "2026-01-30T06:41:50Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5213,6 +5375,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -5225,6 +5388,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17216666896,
+      "id_str": "17216666896",
       "start_date": "2026-01-29T12:47:52Z",
       "start_date_local": "2026-01-29T07:47:52Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5276,6 +5440,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect lap",
@@ -5288,6 +5453,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17195173156,
+      "id_str": "17195173156",
       "start_date": "2026-01-27T12:24:42Z",
       "start_date_local": "2026-01-27T07:24:42Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5339,6 +5505,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Quick jog, helped Xena shovel out the car",
@@ -5351,6 +5518,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17182690226,
+      "id_str": "17182690226",
       "start_date": "2026-01-26T13:11:17Z",
       "start_date_local": "2026-01-26T08:11:17Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5402,6 +5570,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Snowboard",
@@ -5413,6 +5582,7 @@
       "sport_type": "Snowboard",
       "device_name": "Strava App",
       "id": 17155888714,
+      "id_str": "17155888714",
       "start_date": "2026-01-23T14:56:58Z",
       "start_date_local": "2026-01-23T09:56:58Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5464,6 +5634,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -5476,6 +5647,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17139742062,
+      "id_str": "17139742062",
       "start_date": "2026-01-22T14:09:13Z",
       "start_date_local": "2026-01-22T09:09:13Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5527,6 +5699,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Lunch Run",
@@ -5539,6 +5712,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17105618616,
+      "id_str": "17105618616",
       "start_date": "2026-01-19T16:43:01Z",
       "start_date_local": "2026-01-19T11:43:01Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5590,6 +5764,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Night Ride",
@@ -5601,6 +5776,7 @@
       "sport_type": "Ride",
       "workout_type": null,
       "id": 17099925387,
+      "id_str": "17099925387",
       "start_date": "2026-01-19T03:50:49Z",
       "start_date_local": "2026-01-18T22:50:49Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5643,6 +5819,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Afternoon Ride",
@@ -5655,6 +5832,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17087764165,
+      "id_str": "17087764165",
       "start_date": "2026-01-17T18:46:02Z",
       "start_date_local": "2026-01-17T13:46:02Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5709,6 +5887,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Saturday longer run",
@@ -5721,6 +5900,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17081805070,
+      "id_str": "17081805070",
       "start_date": "2026-01-17T13:08:42Z",
       "start_date_local": "2026-01-17T08:08:42Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5772,6 +5952,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Friday run",
@@ -5784,6 +5965,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17069543624,
+      "id_str": "17069543624",
       "start_date": "2026-01-16T12:34:55Z",
       "start_date_local": "2026-01-16T07:34:55Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5835,6 +6017,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Night Ride",
@@ -5847,6 +6030,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17065603716,
+      "id_str": "17065603716",
       "start_date": "2026-01-15T14:03:28Z",
       "start_date_local": "2026-01-15T09:03:28Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5901,6 +6085,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Little tempo",
@@ -5913,6 +6098,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17058276638,
+      "id_str": "17058276638",
       "start_date": "2026-01-15T12:43:39Z",
       "start_date_local": "2026-01-15T07:43:39Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -5964,6 +6150,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Night Ride",
@@ -5976,6 +6163,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17054091884,
+      "id_str": "17054091884",
       "start_date": "2026-01-14T12:00:25Z",
       "start_date_local": "2026-01-14T07:00:25Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6030,6 +6218,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Biking around",
@@ -6042,6 +6231,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17042246589,
+      "id_str": "17042246589",
       "start_date": "2026-01-13T13:51:13Z",
       "start_date_local": "2026-01-13T08:51:13Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6096,6 +6286,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tuesday track",
@@ -6108,6 +6299,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17034053919,
+      "id_str": "17034053919",
       "start_date": "2026-01-13T11:16:32Z",
       "start_date_local": "2026-01-13T06:16:32Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6159,6 +6351,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Evening Ride",
@@ -6171,6 +6364,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17029652726,
+      "id_str": "17029652726",
       "start_date": "2026-01-12T23:44:36Z",
       "start_date_local": "2026-01-12T18:44:36Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6225,6 +6419,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Market n back",
@@ -6237,6 +6432,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 17016126376,
+      "id_str": "17016126376",
       "start_date": "2026-01-11T12:58:10Z",
       "start_date_local": "2026-01-11T07:58:10Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6291,6 +6487,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Work commute",
@@ -6303,6 +6500,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16969704503,
+      "id_str": "16969704503",
       "start_date": "2026-01-07T14:04:05Z",
       "start_date_local": "2026-01-07T09:04:05Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6357,6 +6555,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sbrc Wednesday",
@@ -6369,6 +6568,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16967929445,
+      "id_str": "16967929445",
       "start_date": "2026-01-07T11:50:47Z",
       "start_date_local": "2026-01-07T06:50:47Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6420,6 +6620,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -6432,6 +6633,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16956178360,
+      "id_str": "16956178360",
       "start_date": "2026-01-06T12:35:06Z",
       "start_date_local": "2026-01-06T07:35:06Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6483,6 +6685,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "The search for Olive Garden",
@@ -6495,6 +6698,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16951980817,
+      "id_str": "16951980817",
       "start_date": "2026-01-05T23:36:35Z",
       "start_date_local": "2026-01-05T18:36:35Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6549,6 +6753,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sbrc Monday",
@@ -6561,6 +6766,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16944780839,
+      "id_str": "16944780839",
       "start_date": "2026-01-05T11:41:37Z",
       "start_date_local": "2026-01-05T06:41:37Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6612,6 +6818,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect",
@@ -6624,6 +6831,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16915511504,
+      "id_str": "16915511504",
       "start_date": "2026-01-02T13:52:08Z",
       "start_date_local": "2026-01-02T08:52:08Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6675,6 +6883,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Night Ride",
@@ -6687,6 +6896,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16890278079,
+      "id_str": "16890278079",
       "start_date": "2025-12-30T23:55:15Z",
       "start_date_local": "2025-12-30T18:55:15Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6741,6 +6951,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Exploring the lower east side.",
@@ -6753,6 +6964,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 16888160098,
+      "id_str": "16888160098",
       "start_date": "2025-12-30T19:24:37Z",
       "start_date_local": "2025-12-30T14:24:37Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6807,6 +7019,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -6819,6 +7032,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16885118673,
+      "id_str": "16885118673",
       "start_date": "2025-12-30T14:59:38Z",
       "start_date_local": "2025-12-30T09:59:38Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6870,6 +7084,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Bike coop \u2014> food coop",
@@ -6882,6 +7097,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16879816892,
+      "id_str": "16879816892",
       "start_date": "2025-12-29T23:06:46Z",
       "start_date_local": "2025-12-29T18:06:46Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6936,6 +7152,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "pp loop",
@@ -6948,6 +7165,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16878617124,
+      "id_str": "16878617124",
       "start_date": "2025-12-29T14:38:00Z",
       "start_date_local": "2025-12-29T09:38:00Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -6999,6 +7217,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sunday cruise",
@@ -7011,6 +7230,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16865960767,
+      "id_str": "16865960767",
       "start_date": "2025-12-28T14:03:38Z",
       "start_date_local": "2025-12-28T09:03:38Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7062,6 +7282,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Xmas run",
@@ -7074,6 +7295,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16839951776,
+      "id_str": "16839951776",
       "start_date": "2025-12-25T17:25:55Z",
       "start_date_local": "2025-12-25T12:25:55Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7125,6 +7347,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Solstice run",
@@ -7137,6 +7360,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16805045255,
+      "id_str": "16805045255",
       "start_date": "2025-12-21T15:09:01Z",
       "start_date_local": "2025-12-21T10:09:01Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7188,6 +7412,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "6:15 GAP",
@@ -7200,6 +7425,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16776390494,
+      "id_str": "16776390494",
       "start_date": "2025-12-18T11:03:43Z",
       "start_date_local": "2025-12-18T06:03:43Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7251,6 +7477,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Icy prospect loop",
@@ -7263,6 +7490,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16757651308,
+      "id_str": "16757651308",
       "start_date": "2025-12-16T12:23:23Z",
       "start_date_local": "2025-12-16T07:23:23Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7314,6 +7542,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Biking around",
@@ -7326,6 +7555,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16737121911,
+      "id_str": "16737121911",
       "start_date": "2025-12-13T17:37:34Z",
       "start_date_local": "2025-12-13T12:37:34Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7380,6 +7610,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Xmas tree run",
@@ -7392,6 +7623,7 @@
       "workout_type": 0,
       "device_name": "Garmin Connect",
       "id": 16732613861,
+      "id_str": "16732613861",
       "start_date": "2025-12-13T12:53:50Z",
       "start_date_local": "2025-12-13T07:53:50Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7447,6 +7679,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Lunch Run",
@@ -7459,6 +7692,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16732530353,
+      "id_str": "16732530353",
       "start_date": "2025-12-13T12:53:44Z",
       "start_date_local": "2025-12-13T07:53:44Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7510,6 +7744,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Park loop",
@@ -7522,6 +7757,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16712961485,
+      "id_str": "16712961485",
       "start_date": "2025-12-11T12:46:03Z",
       "start_date_local": "2025-12-11T07:46:03Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7573,6 +7809,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Wednesday SBRC",
@@ -7585,6 +7822,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16703310553,
+      "id_str": "16703310553",
       "start_date": "2025-12-10T11:35:33Z",
       "start_date_local": "2025-12-10T06:35:33Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7636,6 +7874,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Friday SBRC",
@@ -7648,6 +7887,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16656717061,
+      "id_str": "16656717061",
       "start_date": "2025-12-05T11:42:18Z",
       "start_date_local": "2025-12-05T06:42:18Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7699,6 +7939,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Baby temp",
@@ -7711,6 +7952,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16632013336,
+      "id_str": "16632013336",
       "start_date": "2025-12-02T11:59:32Z",
       "start_date_local": "2025-12-02T06:59:32Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7762,6 +8004,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Monday SBRC",
@@ -7774,6 +8017,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16618375127,
+      "id_str": "16618375127",
       "start_date": "2025-12-01T11:35:33Z",
       "start_date_local": "2025-12-01T06:35:33Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7825,6 +8069,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -7837,6 +8082,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16561914653,
+      "id_str": "16561914653",
       "start_date": "2025-11-25T12:21:43Z",
       "start_date_local": "2025-11-25T07:21:43Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7888,6 +8134,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -7900,6 +8147,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16552829739,
+      "id_str": "16552829739",
       "start_date": "2025-11-24T12:52:04Z",
       "start_date_local": "2025-11-24T07:52:04Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -7951,6 +8199,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -7963,6 +8212,7 @@
       "workout_type": null,
       "device_name": "Garmin Forerunner 255 Music",
       "id": 16535050235,
+      "id_str": "16535050235",
       "start_date": "2025-11-22T13:11:01Z",
       "start_date_local": "2025-11-22T08:11:01Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8014,6 +8264,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Friday coffee run",
@@ -8026,6 +8277,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16524036393,
+      "id_str": "16524036393",
       "start_date": "2025-11-21T11:35:53Z",
       "start_date_local": "2025-11-21T06:35:53Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8077,6 +8329,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -8089,6 +8342,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16514452298,
+      "id_str": "16514452298",
       "start_date": "2025-11-20T12:20:27Z",
       "start_date_local": "2025-11-20T07:20:27Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8140,6 +8394,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sbrc",
@@ -8152,6 +8407,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16484462199,
+      "id_str": "16484462199",
       "start_date": "2025-11-17T11:37:45Z",
       "start_date_local": "2025-11-17T06:37:45Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8203,6 +8459,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Saturday cruise",
@@ -8215,6 +8472,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16467814421,
+      "id_str": "16467814421",
       "start_date": "2025-11-15T15:11:18Z",
       "start_date_local": "2025-11-15T10:11:18Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8266,6 +8524,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sbrc Friday",
@@ -8278,6 +8537,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16457670156,
+      "id_str": "16457670156",
       "start_date": "2025-11-14T11:50:28Z",
       "start_date_local": "2025-11-14T06:50:28Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8329,6 +8589,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -8341,6 +8602,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16424887688,
+      "id_str": "16424887688",
       "start_date": "2025-11-11T12:01:01Z",
       "start_date_local": "2025-11-11T07:01:01Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8392,6 +8654,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Biking!!",
@@ -8404,6 +8667,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16400447030,
+      "id_str": "16400447030",
       "start_date": "2025-11-08T18:40:26Z",
       "start_date_local": "2025-11-08T13:40:26Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8458,6 +8722,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "SBRC fall tree run!!",
@@ -8470,6 +8735,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16396139771,
+      "id_str": "16396139771",
       "start_date": "2025-11-08T13:08:08Z",
       "start_date_local": "2025-11-08T08:08:08Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8521,6 +8787,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tree run pre run",
@@ -8533,6 +8800,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16387668328,
+      "id_str": "16387668328",
       "start_date": "2025-11-07T20:25:32Z",
       "start_date_local": "2025-11-07T15:25:32Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8587,6 +8855,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sbrc Friday run",
@@ -8599,6 +8868,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16383725787,
+      "id_str": "16383725787",
       "start_date": "2025-11-07T11:39:37Z",
       "start_date_local": "2025-11-07T06:39:37Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8650,6 +8920,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect laps",
@@ -8662,6 +8933,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16373477339,
+      "id_str": "16373477339",
       "start_date": "2025-11-06T12:17:41Z",
       "start_date_local": "2025-11-06T07:17:41Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8713,6 +8985,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Bike bus -> work -> rallykat",
@@ -8725,6 +8998,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16370119382,
+      "id_str": "16370119382",
       "start_date": "2025-11-05T11:59:32Z",
       "start_date_local": "2025-11-05T06:59:32Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8779,6 +9053,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tuesday - Go Vote!!",
@@ -8791,6 +9066,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16351699772,
+      "id_str": "16351699772",
       "start_date": "2025-11-04T11:31:33Z",
       "start_date_local": "2025-11-04T06:31:33Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8842,6 +9118,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sbrc Monday coffee",
@@ -8854,6 +9131,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16341069959,
+      "id_str": "16341069959",
       "start_date": "2025-11-03T11:28:47Z",
       "start_date_local": "2025-11-03T06:28:47Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8905,6 +9183,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -8917,6 +9196,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16340220158,
+      "id_str": "16340220158",
       "start_date": "2025-11-02T13:35:55Z",
       "start_date_local": "2025-11-02T08:35:55Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -8968,6 +9248,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -8980,6 +9261,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16311512887,
+      "id_str": "16311512887",
       "start_date": "2025-10-31T10:57:45Z",
       "start_date_local": "2025-10-31T06:57:45Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9031,6 +9313,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Bike bus",
@@ -9043,6 +9326,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16293547702,
+      "id_str": "16293547702",
       "start_date": "2025-10-29T11:04:26Z",
       "start_date_local": "2025-10-29T07:04:26Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9097,6 +9381,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Park loop",
@@ -9109,6 +9394,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16281020956,
+      "id_str": "16281020956",
       "start_date": "2025-10-28T11:43:01Z",
       "start_date_local": "2025-10-28T07:43:01Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9160,6 +9446,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "NJ Fall Classic 200k Brevet",
@@ -9172,6 +9459,7 @@
       "workout_type": null,
       "device_name": "Strava GPX",
       "id": 16263703888,
+      "id_str": "16263703888",
       "start_date": "2025-10-25T13:42:29Z",
       "start_date_local": "2025-10-25T09:42:29Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9227,6 +9515,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Park loop",
@@ -9239,6 +9528,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16214613206,
+      "id_str": "16214613206",
       "start_date": "2025-10-21T11:44:00Z",
       "start_date_local": "2025-10-21T07:44:00Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9290,6 +9580,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sunday lap",
@@ -9302,6 +9593,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16196270132,
+      "id_str": "16196270132",
       "start_date": "2025-10-19T22:11:31Z",
       "start_date_local": "2025-10-19T18:11:31Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9353,6 +9645,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Friday coffee run",
@@ -9365,6 +9658,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16169436941,
+      "id_str": "16169436941",
       "start_date": "2025-10-17T10:51:14Z",
       "start_date_local": "2025-10-17T06:51:14Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9416,6 +9710,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect loop",
@@ -9428,6 +9723,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16137009131,
+      "id_str": "16137009131",
       "start_date": "2025-10-14T11:25:54Z",
       "start_date_local": "2025-10-14T07:25:54Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9479,6 +9775,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Rock Creek shuffle",
@@ -9491,6 +9788,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16108377457,
+      "id_str": "16108377457",
       "start_date": "2025-10-11T15:47:12Z",
       "start_date_local": "2025-10-11T11:47:12Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9542,6 +9840,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect",
@@ -9554,6 +9853,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16090509906,
+      "id_str": "16090509906",
       "start_date": "2025-10-09T22:19:36Z",
       "start_date_local": "2025-10-09T18:19:36Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9605,6 +9905,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning run",
@@ -9617,6 +9918,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16089904561,
+      "id_str": "16089904561",
       "start_date": "2025-10-07T11:52:11Z",
       "start_date_local": "2025-10-07T07:52:11Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9668,6 +9970,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Beach ride",
@@ -9680,6 +9983,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16045995956,
+      "id_str": "16045995956",
       "start_date": "2025-10-05T17:00:53Z",
       "start_date_local": "2025-10-05T13:00:53Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9734,6 +10038,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Night Ride",
@@ -9745,6 +10050,7 @@
       "sport_type": "Ride",
       "workout_type": 10,
       "id": 16037303095,
+      "id_str": "16037303095",
       "start_date": "2025-10-05T06:24:45Z",
       "start_date_local": "2025-10-05T02:24:45Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9787,6 +10093,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Night Ride",
@@ -9799,6 +10106,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16037286704,
+      "id_str": "16037286704",
       "start_date": "2025-10-04T23:04:14Z",
       "start_date_local": "2025-10-04T19:04:14Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9853,6 +10161,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Alleycat",
@@ -9865,6 +10174,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16035725411,
+      "id_str": "16035725411",
       "start_date": "2025-10-04T18:57:05Z",
       "start_date_local": "2025-10-04T14:57:05Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9919,6 +10229,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Afternoon Ride",
@@ -9931,6 +10242,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16033783201,
+      "id_str": "16033783201",
       "start_date": "2025-10-04T15:49:53Z",
       "start_date_local": "2025-10-04T11:49:53Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -9985,6 +10297,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sbrc Friday",
@@ -9997,6 +10310,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16019621051,
+      "id_str": "16019621051",
       "start_date": "2025-10-03T10:52:25Z",
       "start_date_local": "2025-10-03T06:52:25Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10048,6 +10362,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Night Ride",
@@ -10060,6 +10375,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16016184479,
+      "id_str": "16016184479",
       "start_date": "2025-10-02T23:17:19Z",
       "start_date_local": "2025-10-02T19:17:19Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10114,6 +10430,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning laps",
@@ -10126,6 +10443,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16009063078,
+      "id_str": "16009063078",
       "start_date": "2025-10-02T11:10:12Z",
       "start_date_local": "2025-10-02T07:10:12Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10180,6 +10498,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Bike bus",
@@ -10192,6 +10511,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 16008134094,
+      "id_str": "16008134094",
       "start_date": "2025-10-01T10:47:48Z",
       "start_date_local": "2025-10-01T06:47:48Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10246,6 +10566,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "QJR",
@@ -10258,6 +10579,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15996632428,
+      "id_str": "15996632428",
       "start_date": "2025-09-30T23:17:29Z",
       "start_date_local": "2025-09-30T19:17:29Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10312,6 +10634,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sbrc but not track",
@@ -10324,6 +10647,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15985817410,
+      "id_str": "15985817410",
       "start_date": "2025-09-30T10:36:21Z",
       "start_date_local": "2025-09-30T06:36:21Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10375,6 +10699,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sbrc Monday",
@@ -10387,6 +10712,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15975678290,
+      "id_str": "15975678290",
       "start_date": "2025-09-29T10:39:11Z",
       "start_date_local": "2025-09-29T06:39:11Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10438,6 +10764,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Saturday run",
@@ -10450,6 +10777,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15955395849,
+      "id_str": "15955395849",
       "start_date": "2025-09-27T12:40:41Z",
       "start_date_local": "2025-09-27T08:40:41Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10501,6 +10829,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Walk",
@@ -10512,6 +10841,7 @@
       "sport_type": "Walk",
       "device_name": "Strava App",
       "id": 15941307640,
+      "id_str": "15941307640",
       "start_date": "2025-09-26T10:52:16Z",
       "start_date_local": "2025-09-26T06:52:16Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10563,6 +10893,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Wednesday sbrc",
@@ -10575,6 +10906,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15920547014,
+      "id_str": "15920547014",
       "start_date": "2025-09-24T10:52:23Z",
       "start_date_local": "2025-09-24T06:52:23Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10626,6 +10958,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tuesday park",
@@ -10638,6 +10971,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15908754046,
+      "id_str": "15908754046",
       "start_date": "2025-09-23T11:13:40Z",
       "start_date_local": "2025-09-23T07:13:40Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10689,6 +11023,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Evening Ride",
@@ -10701,6 +11036,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15893769253,
+      "id_str": "15893769253",
       "start_date": "2025-09-21T19:42:27Z",
       "start_date_local": "2025-09-21T15:42:27Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10755,6 +11091,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Train \u2014> home",
@@ -10767,6 +11104,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15891308319,
+      "id_str": "15891308319",
       "start_date": "2025-09-21T17:15:08Z",
       "start_date_local": "2025-09-21T13:15:08Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10818,6 +11156,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sunday run",
@@ -10830,6 +11169,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15890960515,
+      "id_str": "15890960515",
       "start_date": "2025-09-21T13:06:36Z",
       "start_date_local": "2025-09-21T09:06:36Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10881,6 +11221,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -10893,6 +11234,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15876863275,
+      "id_str": "15876863275",
       "start_date": "2025-09-20T12:58:45Z",
       "start_date_local": "2025-09-20T08:58:45Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -10944,6 +11286,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Friday SBRC",
@@ -10956,6 +11299,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15864412916,
+      "id_str": "15864412916",
       "start_date": "2025-09-19T10:41:47Z",
       "start_date_local": "2025-09-19T06:41:47Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11007,6 +11351,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "prospect loop",
@@ -11019,6 +11364,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15853450120,
+      "id_str": "15853450120",
       "start_date": "2025-09-18T12:00:34Z",
       "start_date_local": "2025-09-18T08:00:34Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11070,6 +11416,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Bike bus",
@@ -11082,6 +11429,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15849047081,
+      "id_str": "15849047081",
       "start_date": "2025-09-17T11:22:58Z",
       "start_date_local": "2025-09-17T07:22:58Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11136,6 +11484,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tuesday track",
@@ -11148,6 +11497,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15829508333,
+      "id_str": "15829508333",
       "start_date": "2025-09-16T10:06:26Z",
       "start_date_local": "2025-09-16T06:06:26Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11199,6 +11549,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Saturday progression?",
@@ -11211,6 +11562,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15797911540,
+      "id_str": "15797911540",
       "start_date": "2025-09-13T12:09:48Z",
       "start_date_local": "2025-09-13T08:09:48Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11262,6 +11614,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Friday sbrc",
@@ -11274,6 +11627,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15785746019,
+      "id_str": "15785746019",
       "start_date": "2025-09-12T10:51:04Z",
       "start_date_local": "2025-09-12T06:51:04Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11325,6 +11679,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "TFD run club",
@@ -11337,6 +11692,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15763612938,
+      "id_str": "15763612938",
       "start_date": "2025-09-10T11:30:23Z",
       "start_date_local": "2025-09-10T07:30:23Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11388,6 +11744,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Monday sbrc",
@@ -11400,6 +11757,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15738967029,
+      "id_str": "15738967029",
       "start_date": "2025-09-08T10:36:51Z",
       "start_date_local": "2025-09-08T06:36:51Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11451,6 +11809,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Afternoon Sail",
@@ -11462,6 +11821,7 @@
       "sport_type": "Sail",
       "device_name": "Strava App",
       "id": 15719908250,
+      "id_str": "15719908250",
       "start_date": "2025-09-06T13:48:51Z",
       "start_date_local": "2025-09-06T09:48:51Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11513,6 +11873,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Shields nationals day 2",
@@ -11524,6 +11885,7 @@
       "sport_type": "Sail",
       "device_name": "Strava App",
       "id": 15709949495,
+      "id_str": "15709949495",
       "start_date": "2025-09-05T14:10:20Z",
       "start_date_local": "2025-09-05T10:10:20Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11575,6 +11937,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Martha\u2019s Vineyard loop",
@@ -11587,6 +11950,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15694048237,
+      "id_str": "15694048237",
       "start_date": "2025-09-04T11:02:38Z",
       "start_date_local": "2025-09-04T07:02:38Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11638,6 +12002,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -11650,6 +12015,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15670135183,
+      "id_str": "15670135183",
       "start_date": "2025-09-02T11:33:49Z",
       "start_date_local": "2025-09-02T07:33:49Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11701,6 +12067,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -11713,6 +12080,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15658566551,
+      "id_str": "15658566551",
       "start_date": "2025-08-31T16:47:33Z",
       "start_date_local": "2025-08-31T12:47:33Z",
       "timezone": "(GMT-05:00) America/Toronto",
@@ -11764,6 +12132,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Woodstock gravel",
@@ -11776,6 +12145,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15628579987,
+      "id_str": "15628579987",
       "start_date": "2025-08-29T12:44:37Z",
       "start_date_local": "2025-08-29T08:44:37Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11830,6 +12200,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Thursday tempo",
@@ -11842,6 +12213,7 @@
       "workout_type": null,
       "device_name": "Strava App",
       "id": 15615900139,
+      "id_str": "15615900139",
       "start_date": "2025-08-28T11:41:18Z",
       "start_date_local": "2025-08-28T07:41:18Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11893,6 +12265,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Ride",
@@ -11905,6 +12278,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15604561552,
+      "id_str": "15604561552",
       "start_date": "2025-08-27T11:24:20Z",
       "start_date_local": "2025-08-27T07:24:20Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -11959,6 +12333,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tuesday track",
@@ -11971,6 +12346,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15591526905,
+      "id_str": "15591526905",
       "start_date": "2025-08-26T10:04:24Z",
       "start_date_local": "2025-08-26T06:04:24Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12022,6 +12398,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -12034,6 +12411,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15580645902,
+      "id_str": "15580645902",
       "start_date": "2025-08-25T12:28:29Z",
       "start_date_local": "2025-08-25T08:28:29Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12085,6 +12463,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sunday run",
@@ -12097,6 +12476,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15573642031,
+      "id_str": "15573642031",
       "start_date": "2025-08-24T16:09:57Z",
       "start_date_local": "2025-08-24T12:09:57Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12148,6 +12528,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Morning Run",
@@ -12160,6 +12541,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15546438395,
+      "id_str": "15546438395",
       "start_date": "2025-08-22T10:54:01Z",
       "start_date_local": "2025-08-22T06:54:01Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12211,6 +12593,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Evening Run",
@@ -12223,6 +12606,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15541079806,
+      "id_str": "15541079806",
       "start_date": "2025-08-21T11:42:25Z",
       "start_date_local": "2025-08-21T07:42:25Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12274,6 +12658,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tuesday track",
@@ -12286,6 +12671,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15511515532,
+      "id_str": "15511515532",
       "start_date": "2025-08-19T10:06:18Z",
       "start_date_local": "2025-08-19T06:06:18Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12337,6 +12723,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Monday SBRC",
@@ -12349,6 +12736,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15499780187,
+      "id_str": "15499780187",
       "start_date": "2025-08-18T10:56:14Z",
       "start_date_local": "2025-08-18T06:56:14Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12400,6 +12788,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Beach ride",
@@ -12412,6 +12801,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15494251919,
+      "id_str": "15494251919",
       "start_date": "2025-08-17T13:45:31Z",
       "start_date_local": "2025-08-17T09:45:31Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12466,6 +12856,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Not a long run but a run",
@@ -12478,6 +12869,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15479787227,
+      "id_str": "15479787227",
       "start_date": "2025-08-16T14:25:45Z",
       "start_date_local": "2025-08-16T10:25:45Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12529,6 +12921,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Prospect park tempo",
@@ -12541,6 +12934,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15455385530,
+      "id_str": "15455385530",
       "start_date": "2025-08-14T10:33:23Z",
       "start_date_local": "2025-08-14T06:33:23Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12592,6 +12986,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Tuesday track",
@@ -12604,6 +12999,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15431889362,
+      "id_str": "15431889362",
       "start_date": "2025-08-12T10:08:47Z",
       "start_date_local": "2025-08-12T06:08:47Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12655,6 +13051,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Monday SBRC",
@@ -12667,6 +13064,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15420454326,
+      "id_str": "15420454326",
       "start_date": "2025-08-11T10:34:45Z",
       "start_date_local": "2025-08-11T06:34:45Z",
       "timezone": "(GMT-05:00) America/New_York",
@@ -12718,6 +13116,7 @@
       "resource_state": 2,
       "athlete": {
         "id": 18129104,
+        "id_str": "18129104",
         "resource_state": 1
       },
       "name": "Sunday easy",
@@ -12730,6 +13129,7 @@
       "workout_type": 0,
       "device_name": "Strava App",
       "id": 15409617814,
+      "id_str": "15409617814",
       "start_date": "2025-08-10T10:59:41Z",
       "start_date_local": "2025-08-10T06:59:41Z",
       "timezone": "(GMT-05:00) America/New_York",
