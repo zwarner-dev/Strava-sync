@@ -1,7 +1,72 @@
 {
-  "last_updated": "2026-06-27T09:24:31.688875Z",
+  "last_updated": "2026-06-28T09:54:20.195047Z",
   "activity_count": 200,
   "activities": [
+    {
+      "resource_state": 2,
+      "athlete": {
+        "id": 18129104,
+        "id_str": "18129104",
+        "resource_state": 1
+      },
+      "name": "Saturday beach run",
+      "distance": 15716.9,
+      "moving_time": 5154,
+      "elapsed_time": 8400,
+      "total_elevation_gain": 24.6,
+      "type": "Run",
+      "sport_type": "Run",
+      "workout_type": null,
+      "device_name": "Strava App",
+      "id": 19086105717,
+      "id_str": "19086105717",
+      "start_date": "2026-06-27T11:22:16Z",
+      "start_date_local": "2026-06-27T07:22:16Z",
+      "timezone": "(GMT-05:00) America/New_York",
+      "utc_offset": -14400.0,
+      "location_city": null,
+      "location_state": null,
+      "location_country": null,
+      "achievement_count": 9,
+      "kudos_count": 43,
+      "comment_count": 0,
+      "athlete_count": 5,
+      "photo_count": 0,
+      "map": {
+        "id": "a19086105717",
+        "summary_polyline": "oedwF~atbMpB~BNFV^r@n@\\f@p@d@r@|@pAlApA|AXPh@p@b@ZZb@d@`@HR`Ax@t@~@NHlArALVLDJP|@z@NXr@h@f@r@jAdAxA|AdAjAj@t@PJ^j@n@d@jBnBb@ZFRd@RVd@ZXDLlBnB~AjBf@^PV^`@vApAbBrBr@n@v@z@\\d@TPf@p@hAbAL?PNT`AHJJARH\\l@DRPNt@PBR`@Rt@nAv@`@DTb@X^p@v@j@hAvAj@`@t@dAXN`@l@h@`@BJj@d@rA`BtAjA\\j@j@`@RZxBpBDVRFV`@^Rj@v@lAhApArAf@t@b@d@RJj@r@TFH\\PBXTd@n@lAbAFLEXf@Hz@~@@VOX]zAYz@@\\[b@Yl@{@xC@TQJ}@hDY`@KTeAtDQVAl@MfAg@fAStAGJ?TM\\k@lCKr@Sb@?f@F?eBmBgBiBE[Fk@Zo@PUg@p@SjAUh@It@Un@Gd@M^Kl@SrBIfBDzBCh@LvAb@nB\\f@l@tAh@zAvA`Bj@Z^|@O\\Vb@d@XfB`@@RINGd@HFMJF@JVtKjEtPtGhTxH|@p@b@Nr@Fr@EvB\\fD\\tCTnK^tCb@bBHtAEpBa@zEC`DSxD?xAg@tGw@xFeAjEe@|CY~Ag@|DuBvA}@rAgAr@q@tAgBf@]fB_CrBcB|A}@`FiAfAs@x@oAViA`@s@x@s@rBaAx@u@LYXS`E{EnAmB\\sAfA_BfB_EV{@V{AxB}\\NwADoAjAwPR{Ar@eCXy@tAsBJYVcCO_CDkCLeB^cEj@kE\\uBJYB]h@aC|BkIv@uBrAwC~CiGb@o@b@eAp@cA~@kBbDgGhAmB`EeF~CsE`CmBnBkAG[@e@Eg@_@kAsD{DKWNS`@kAjAgClAyBv@sAHETk@TUlAkBHENYPOXm@`DsDt@m@Ze@z@o@n@q@lDmC`FmCxEaBh@UTW|@UnB_AROFMr@YxAcAx@w@xBiCxEaIvAaAv@Wj@CJ{@[qFC{@BKPD~@K|HiB`F{@TB`@Mn@?jDk@\\UXYtB[dBKxB[p@SRBv@_@p@Oj@@VMfAVJGDMKQGA^[NeAA_BNe@JKfEYjB[x@BRGrBC@G@RB?vCiBuDvAgEPgDd@iCNs@P",
+        "resource_state": 2
+      },
+      "trainer": false,
+      "commute": false,
+      "manual": false,
+      "private": false,
+      "visibility": "everyone",
+      "flagged": false,
+      "gear_id": "g32037271",
+      "start_latlng": [
+        40.66004,
+        -73.998611
+      ],
+      "end_latlng": [
+        40.576703,
+        -73.981204
+      ],
+      "average_speed": 3.049,
+      "max_speed": 5.56,
+      "has_heartrate": false,
+      "heartrate_opt_out": false,
+      "display_hide_heartrate_option": false,
+      "elev_high": 27.9,
+      "elev_low": 1.2,
+      "upload_id": 20201108201,
+      "upload_id_str": "20201108201",
+      "external_id": "2D01EF47-82D5-4606-904E-2699F8FA8BD2-activity.fit",
+      "from_accepted_tag": false,
+      "pr_count": 2,
+      "total_photo_count": 4,
+      "has_kudoed": false
+    },
     {
       "resource_state": 2,
       "athlete": {
@@ -28,7 +93,7 @@
       "location_state": null,
       "location_country": null,
       "achievement_count": 0,
-      "kudos_count": 20,
+      "kudos_count": 21,
       "comment_count": 0,
       "athlete_count": 15,
       "photo_count": 0,
@@ -43,7 +108,7 @@
       "private": false,
       "visibility": "everyone",
       "flagged": false,
-      "gear_id": "g27219538",
+      "gear_id": "g32037271",
       "start_latlng": [
         40.669176,
         -73.98442
@@ -93,7 +158,7 @@
       "location_state": null,
       "location_country": null,
       "achievement_count": 8,
-      "kudos_count": 28,
+      "kudos_count": 29,
       "comment_count": 0,
       "athlete_count": 1,
       "photo_count": 0,
@@ -108,7 +173,7 @@
       "private": false,
       "visibility": "everyone",
       "flagged": false,
-      "gear_id": "g27219538",
+      "gear_id": "g32037271",
       "start_latlng": [
         40.692319,
         -74.001162
@@ -173,7 +238,7 @@
       "private": false,
       "visibility": "everyone",
       "flagged": false,
-      "gear_id": "g27219538",
+      "gear_id": "g32037271",
       "start_latlng": [
         40.669068,
         -73.984441
@@ -13109,71 +13174,6 @@
       "external_id": "ACF396AD-907B-4EC8-8A96-EB91B0E32232-activity.fit",
       "from_accepted_tag": false,
       "pr_count": 1,
-      "total_photo_count": 0,
-      "has_kudoed": false
-    },
-    {
-      "resource_state": 2,
-      "athlete": {
-        "id": 18129104,
-        "id_str": "18129104",
-        "resource_state": 1
-      },
-      "name": "Tuesday track",
-      "distance": 16125.3,
-      "moving_time": 4923,
-      "elapsed_time": 6335,
-      "total_elevation_gain": 52.0,
-      "type": "Run",
-      "sport_type": "Run",
-      "workout_type": 0,
-      "device_name": "Strava App",
-      "id": 15431889362,
-      "id_str": "15431889362",
-      "start_date": "2025-08-12T10:08:47Z",
-      "start_date_local": "2025-08-12T06:08:47Z",
-      "timezone": "(GMT-05:00) America/New_York",
-      "utc_offset": -14400.0,
-      "location_city": null,
-      "location_state": null,
-      "location_country": null,
-      "achievement_count": 2,
-      "kudos_count": 34,
-      "comment_count": 1,
-      "athlete_count": 3,
-      "photo_count": 0,
-      "map": {
-        "id": "a15431889362",
-        "summary_polyline": "{ufwFvypbMWV[jAFtAd@b@Pb@OPWz@@~@Qx@q@rAC`@i@l@]fAFz@^f@Xh@@PWZiAtCgAxD?p@r@n@?h@\\j@e@zBYb@q@~BuA|CZx@rDrCBJoCvG]zB_AnC{@fBkArD^r@@Pj@^DPM`@y@xEAl@v@p@rDnATANVbA\\TRM|Ba@fBi@r@Qz@E`Cq@|Dl@pBDh@{@OaAbFFP\\PrBv@d@?Ts@f@_DCYWSiCw@[@{@pEFXTJzCbAx@mE?QQS{B}@_@EMRq@vD@RLLxCv@V_@f@}BDi@IUiDoAc@nA]|BDRb@VfCt@Zq@f@wCU_@gC}@U@{@lELV`A`@rA`@LEj@_CNmAKUyBy@]ISJu@nEdCfA^BTWx@}DAQmDiAaAdEA^JNzC~@R_@n@cDSi@{C_As@rCI`ANXvC~@Vk@h@uC?[OQuC}@MNq@hDCXJPdDnAn@sCHeAgBaAcAYSZi@bDAVHL~ChAXu@`@uBFo@QUuC_AUXo@tD?XbDhAdAaE?UUYqCaAMNo@jDC\\PT|C|@z@gEG_@OK{CiAzB~BsBl@_AFGNQGShAYtB{@bD{BjMo@|AuBzCe@fAm@t@eDbGcBcB_CuCcA{AcAcAaAo@iA{B_BeBe@{@yBcC{A{BuGuHm@_AgB{@{HoCmEgBEc@j@eCx@cFIKwYwKoGgC[DS\\aBhJ}@@wCjLwCqAlCeLu@m@kBe@mCjKeDaBzCkMn@Nn@f@PGRgA`@cA@mANMBc@U?R_BxAF~Aj@l@^|@L^Ml@eCPwAb@w@TsC`@}@Bg@VeA?eAZaADq@RYN}At@kDv@cCRoBC]TC~@PVN@JxEnBrBh@nAp@rBb@l@qCPi@j@_BJ{@lAcDC_@f@oANiAx@_Bl@sCR]l@{BZeBn@aBLy@f@u@RsAf@cBj@cBX_B^q@p@}Ct@sA~@_Fr@}Ar@gDt@oBC[LEBc@fBsFBQQu@@[XK^a@h@sAh@Oj@l@TGh@d@t@VXb@V@r@f@n@n@|@\\v@p@zBn@^\\b@@`@r@XN^Cj@t@fAt@bB~@~@Z\\`@~@PNb@PP~Av@l@|@zB~Ah@PJT|AbAv@v@\\ObCeFt@u@?eAXu@",
-        "resource_state": 2
-      },
-      "trainer": false,
-      "commute": false,
-      "manual": false,
-      "private": false,
-      "visibility": "everyone",
-      "flagged": false,
-      "gear_id": "g23798543",
-      "start_latlng": [
-        40.671249,
-        -73.980113
-      ],
-      "end_latlng": [
-        40.6699,
-        -73.979247
-      ],
-      "average_speed": 3.276,
-      "max_speed": 6.76,
-      "has_heartrate": false,
-      "heartrate_opt_out": false,
-      "display_hide_heartrate_option": false,
-      "elev_high": 32.2,
-      "elev_low": 2.1,
-      "upload_id": 16480202567,
-      "upload_id_str": "16480202567",
-      "external_id": "0183954E-3BCA-48BC-B99F-5BFA190B131D-activity.fit",
-      "from_accepted_tag": false,
-      "pr_count": 0,
       "total_photo_count": 0,
       "has_kudoed": false
     }
