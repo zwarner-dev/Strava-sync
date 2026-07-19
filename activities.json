@@ -1,7 +1,72 @@
 {
-  "last_updated": "2026-07-18T08:44:37.185410Z",
+  "last_updated": "2026-07-19T09:01:58.268360Z",
   "activity_count": 200,
   "activities": [
+    {
+      "resource_state": 2,
+      "athlete": {
+        "id": 18129104,
+        "id_str": "18129104",
+        "resource_state": 1
+      },
+      "name": "Fountains of youth have turned on",
+      "distance": 14971.5,
+      "moving_time": 5010,
+      "elapsed_time": 6234,
+      "total_elevation_gain": 103.6,
+      "type": "Run",
+      "sport_type": "Run",
+      "workout_type": null,
+      "device_name": "Strava App",
+      "id": 19369220302,
+      "id_str": "19369220302",
+      "start_date": "2026-07-18T22:01:45Z",
+      "start_date_local": "2026-07-18T18:01:45Z",
+      "timezone": "(GMT-05:00) America/New_York",
+      "utc_offset": -14400.0,
+      "location_city": null,
+      "location_state": null,
+      "location_country": null,
+      "achievement_count": 1,
+      "kudos_count": 10,
+      "comment_count": 0,
+      "athlete_count": 1,
+      "photo_count": 0,
+      "map": {
+        "id": "a19369220302",
+        "summary_polyline": "kpfwFfdqbMa@S[e@s@_@]?y@m@s@aAUCq@k@_@q@ANBc@kBqAcBmBuEiDGD{A}Ag@I_@g@s@_@k@?m@y@Da@^_A@g@b@oAPOPgAJOH{@n@eAn@}DZi@bAuDb@s@Fi@\\_ATkBR[bAoDr@qA\\uAVuBZ_Ad@o@DcAL[j@]Vo@VS\\o@PgADu@^QHPx@ClARZ^TdA`@r@`ClAv@t@HAz@pAjAhAVClD~@rBCjEa@jAL`Ad@|CdDrCrAxArA`ClDj@pAt@nCtAzCzAbBtBf@bAGr@_@x@mAd@oAVwDZeAVi@nB{BJq@T]Ns@`@_Aj@i@~Aq@tGNrBY`@UT_@vDeD|A[hFx@xBg@lAo@|@{BD_A_@yC{@_CwAoBeAeBe@{Ao@uDm@kGyAoEiC}CqBuAkBu@sBY_BJgHlCsCKkGfD{FxB_@ZsBh@iCIg@JsKnEi@XkB~BeAxBc@~A_@r@cAx@kCDiA\\a@^y@J}@QeCwA}AS{Ah@i@v@i@xA{Bn@eAr@cA~E_@N]t@[rAMFOr@i@bAGx@S^a@hB]r@SBEfAi@zB]v@iAbEKz@Wj@a@\\FLr@H?c@i@d@?jAML?^Mj@c@`A{@nCA`@]j@}@fDq@vABX}@pDMNGf@s@dCo@|AAXY\\SjAo@xA[rA_ArEQPBRQr@_@\\?RYj@At@m@pA]bBm@dAy@vEk@^Iz@]VCfAWtAQNo@zCq@vA?ZOL[~AUf@KpAi@`AqChKs@nBLVvAT~CdB`HbCvCz@jAr@tDjA~CjAnAr@fAPr@f@fBV?RVz@fGzBn@n@j@BtDjAx@j@dCx@Db@EfAcChN|Ab@~@t@XDE~BOxAm@NoBSoAe@mBbJe@`D_@p@O|AcA~DC`AOh@g@j@{@bBu@uAg@[OByBxD}@jAiAeA]aAcBcCkDyDi@oALqApAeAbA{Ab@[^yChAcEjBkJF}A^u@r@gC?Wb@_CBaAb@wAFqBl@KVNISQeAL_BHy@R[n@gCE[b@oB[{@m@KSSRWBm@^gC^UFWTEXk@dAoDHoAf@}@v@_BD]Pg@f@m@Eo@\\YNq@|@kBRg@B_@pAoCJa@@i@?VBU`AqBZoAZg@z@cC",
+        "resource_state": 2
+      },
+      "trainer": false,
+      "commute": false,
+      "manual": false,
+      "private": false,
+      "visibility": "everyone",
+      "flagged": false,
+      "gear_id": null,
+      "start_latlng": [
+        40.669191,
+        -73.984668
+      ],
+      "end_latlng": [
+        40.66932,
+        -73.986254
+      ],
+      "average_speed": 2.988,
+      "max_speed": 8.14,
+      "has_heartrate": false,
+      "heartrate_opt_out": false,
+      "display_hide_heartrate_option": false,
+      "elev_high": 50.7,
+      "elev_low": 2.3,
+      "upload_id": 20488825415,
+      "upload_id_str": "20488825415",
+      "external_id": "CA849E78-EFF1-4FE5-9342-5391DB3577B2-activity.fit",
+      "from_accepted_tag": false,
+      "pr_count": 1,
+      "total_photo_count": 1,
+      "has_kudoed": false
+    },
     {
       "resource_state": 2,
       "athlete": {
@@ -13128,74 +13193,6 @@
       "from_accepted_tag": false,
       "pr_count": 0,
       "total_photo_count": 0,
-      "has_kudoed": false
-    },
-    {
-      "resource_state": 2,
-      "athlete": {
-        "id": 18129104,
-        "id_str": "18129104",
-        "resource_state": 1
-      },
-      "name": "Woodstock gravel",
-      "distance": 49141.1,
-      "moving_time": 8402,
-      "elapsed_time": 13077,
-      "total_elevation_gain": 797.1,
-      "type": "Ride",
-      "sport_type": "Ride",
-      "workout_type": null,
-      "device_name": "Strava App",
-      "id": 15628579987,
-      "id_str": "15628579987",
-      "start_date": "2025-08-29T12:44:37Z",
-      "start_date_local": "2025-08-29T08:44:37Z",
-      "timezone": "(GMT-05:00) America/New_York",
-      "utc_offset": -14400.0,
-      "location_city": null,
-      "location_state": null,
-      "location_country": null,
-      "achievement_count": 0,
-      "kudos_count": 34,
-      "comment_count": 2,
-      "athlete_count": 1,
-      "photo_count": 0,
-      "map": {
-        "id": "a15628579987",
-        "summary_polyline": "o{kiGzh~xL~@hDlDbG\\|Ap@dGc@pFcDrEmEtD{KbTwI~KiJjJsJjFmDlDiDlFuAlG?nPVzHgBlQ`@|BdAfA~`@|SnM?fEp@rCChHk@~U_FvELhCx@zJlLhF`JzB`MdAzRrBdJjE|KpC~DjNhHxAdBpBxEd@rD@jBcA~MQ|Gq@bEkAxDiAvAgGdDiKfAgPpHcAjBoAlEeAnH[xZhB`PAjHaA`IeC`I{@tGKrCfClVZ`FLxPW~Yb@jMX|BdAfCdEnI`GrIx@lBLdDi@fKxAjJfAvC|EpEdKbPxALhGcAbFvBpB~C`@PxWp@`BtEpG~GfAbClEfOnAzBpE~LlDhMpA~@bNfFx@dApD~MbApGVpJKtGi@rFyAvFhArDrCdCdHp@fCbAzGxEpIrI|FrBtCIhDuCpCa@aCLcFpDKz@dTfn@rG|ItAfAxPnEpQ|GzGfFnEpA|ArDdAvArHjE`QjBr^l@lJuCpLI|DZrDrB~DqBbEoAJXt@{@pEc@^_Ad@sFz@iDzEmJxA_B@TbEaCbCsFpMiKz@aCbBfEjY`a@tAl@~DlEdDlBjEnAvCvCl@~@ZxAMfF^Tx@UXoBH_NbHoZxCwFhDsIpC{BxBwEjAqKt@_DwHwQsEmM_@eKgEaW{AaYcAiEE{BYHJl@s@Dg]XkJU_EeByEl@{BdBeEfBsHb@cC~@gBxAk@z@cArD}AdCsFfCgA~@Of@LFQUaDlCo@v@s@fDaAyANd@c@HiCbDu@J_A]}A`D]eGy@k@kAEeAyA_KwGwRoC{SsA}LkCmO{@eBk@oAaCcBqAmFaA}BAsDv@w`@}AkIiIu@gBmA_HwDuCcCwEw@g@gFa@gJ~G}CPiUkDoLyFgMmEiGuAsEyDuTiYoC}EcDqC_DkIhBlFEn@_W[kB}CeEyBsBMqE|@mAKkK{OeFcFo@iBaBoJAuBn@aHWiD{@sBkDyEaEkHeCkFi@gCe@sMR}ZSoRsCiY}AyGOiBGyNhBuOOoJq@iD{BoFiCaPfHuC`C}BnBs@n@gAnB}GbBmB~O}FtGYxDgAvDyBlD{E`@Hm@aCRmKdAwNAuC[kCaA{CmCyDaCgBiJgEoCkDiEyKmBoIyAeUgB}JuA}C{DeGmJ_LeEy@eD?sU|EiHh@wC@wEo@oL@wZoOdBh@Cw@QIVb@n@SV_ARTIZRISPTXMNn@ZFd@OZmMwGy@cASsADsBbBiNYoH@uPrAeGfGmIzAwArJoFrOoPtEcHzIcQjH{Gz@oAl@kBJwEy@mGeEmIoAmFmAkLBqMiAiMFcIRiB~IiTsGpN_BtESdLdApK@pKUDUkBYD[`A",
-        "resource_state": 2
-      },
-      "trainer": false,
-      "commute": false,
-      "manual": false,
-      "private": false,
-      "visibility": "everyone",
-      "flagged": false,
-      "gear_id": "b3320936",
-      "start_latlng": [
-        43.64833,
-        -72.410395
-      ],
-      "end_latlng": [
-        43.648125,
-        -72.411922
-      ],
-      "average_speed": 5.849,
-      "max_speed": 13.48,
-      "average_watts": 133.0,
-      "device_watts": false,
-      "kilojoules": 1117.4,
-      "has_heartrate": false,
-      "heartrate_opt_out": false,
-      "display_hide_heartrate_option": false,
-      "elev_high": 455.3,
-      "elev_low": 157.9,
-      "upload_id": 16692173727,
-      "upload_id_str": "16692173727",
-      "external_id": "1D0F5839-493F-4D11-B098-50AE169BE049-activity.fit",
-      "from_accepted_tag": false,
-      "pr_count": 0,
-      "total_photo_count": 6,
       "has_kudoed": false
     }
   ]
