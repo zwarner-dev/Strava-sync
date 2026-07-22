@@ -1,7 +1,76 @@
 {
-  "last_updated": "2026-07-21T09:23:19.928057Z",
+  "last_updated": "2026-07-22T09:22:33.159446Z",
   "activity_count": 200,
   "activities": [
+    {
+      "resource_state": 2,
+      "athlete": {
+        "id": 18129104,
+        "id_str": "18129104",
+        "resource_state": 1
+      },
+      "name": "Tuesday tempo",
+      "distance": 9689.0,
+      "moving_time": 2920,
+      "elapsed_time": 3758,
+      "total_elevation_gain": 65.7,
+      "type": "Run",
+      "sport_type": "Run",
+      "workout_type": null,
+      "device_name": "Garmin Forerunner 55",
+      "id": 19401785317,
+      "id_str": "19401785317",
+      "start_date": "2026-07-21T10:37:30Z",
+      "start_date_local": "2026-07-21T06:37:30Z",
+      "timezone": "(GMT-05:00) America/New_York",
+      "utc_offset": -14400.0,
+      "location_city": null,
+      "location_state": null,
+      "location_country": null,
+      "achievement_count": 8,
+      "kudos_count": 15,
+      "comment_count": 0,
+      "athlete_count": 1,
+      "photo_count": 0,
+      "map": {
+        "id": "a19401785317",
+        "summary_polyline": "uzewFxvpbMPc@b@{ARYNIRaAPe@D[FGLg@j@gAz@qB`@s@^{@jAoDF_@Pk@LUBQPg@d@cARu@\\aAJQPQLa@BK`@i@P_@Lg@Xq@hC_DBLXt@T^@??E[_Am@iAYe@}@cA]Su@u@_CuA{@m@q@eA[[i@g@g@Yi@Mc@GkCLoBPiBG{@Q]Lh@RZDz@B`BAxBQhA?PCd@HlAj@bClC|E~C~A`BrAvBVl@Xx@VbA`@hAhArBRZh@h@x@l@h@RT@f@Ch@KRId@Yd@u@Vs@Rw@ZyCJm@Ro@`A{Aj@m@nA_DXk@d@i@^[p@Yh@M^Cx@D|@Jx@HvAE~@Mz@U\\]p@gAh@i@|@s@p@Yr@Md@BnAPbATr@BbAEf@Qn@]l@i@b@o@Pw@?u@GmBG[Oq@m@eBwBwDg@aAc@eAQq@QaA[eD_@wCi@aCc@iAYg@a@m@u@_ASScBkAwAs@_@Qa@Ks@Ig@C[?i@Du@LiBb@w@TqAr@m@PwAQS@y@NqBbAwCjBu@XyA^c@PgB|@eAZaAAeBJw@Xe@ViElAs@\\eBj@OHa@\\o@x@u@lAoArCI`@Qd@[Z]f@o@Ze@Fk@Ci@BSDgAl@m@H_@Ay@S{@c@a@Yi@UU@OCc@?q@Fc@Rk@n@IVWxA@~@B\\Tv@b@r@^\\v@h@n@Xb@`@`@Xl@r@lAjAhBp@^Dj@LdALh@@`BGdAQr@Cd@@x@Nn@T^Vh@h@NNVd@f@d@PLpAl@r@`@zCtCb@j@bAfBp@hBb@bB\\z@Xj@Pz@\\b@vAfA~@VwA~Vc@`@ILMv@Ub@W\\Gf@KPQh@UzAOXWXUv@MTUVYp@EH?@]_@a@YW]kAi@u@SEOGNORO^QNWf@?DDG[z@I^CPg@n@w@fBKl@GFSDGCOSYM]UMMMG}@{@QYw@g@c@Qy@w@]QoAeAEDU|@Sf@y@nB",
+        "resource_state": 2
+      },
+      "trainer": false,
+      "commute": false,
+      "manual": false,
+      "private": false,
+      "visibility": "everyone",
+      "flagged": false,
+      "gear_id": "g32037271",
+      "start_latlng": [
+        40.66869,
+        -73.983551
+      ],
+      "end_latlng": [
+        40.669033,
+        -73.986503
+      ],
+      "average_speed": 3.318,
+      "max_speed": 4.82,
+      "average_cadence": 82.1,
+      "has_heartrate": true,
+      "average_heartrate": 146.8,
+      "max_heartrate": 175.0,
+      "heartrate_opt_out": false,
+      "display_hide_heartrate_option": true,
+      "elev_high": 50.7,
+      "elev_low": 19.4,
+      "upload_id": 20522052949,
+      "upload_id_str": "20522052949",
+      "external_id": "garmin_ping_601765965369",
+      "from_accepted_tag": false,
+      "pr_count": 1,
+      "total_photo_count": 0,
+      "has_kudoed": false,
+      "suffer_score": 48.0
+    },
     {
       "resource_state": 2,
       "athlete": {
@@ -43,7 +112,7 @@
       "private": false,
       "visibility": "everyone",
       "flagged": false,
-      "gear_id": null,
+      "gear_id": "g32037271",
       "start_latlng": [
         40.669208,
         -73.98437
@@ -97,7 +166,7 @@
       "location_state": null,
       "location_country": null,
       "achievement_count": 1,
-      "kudos_count": 23,
+      "kudos_count": 24,
       "comment_count": 0,
       "athlete_count": 1,
       "photo_count": 0,
@@ -112,7 +181,7 @@
       "private": false,
       "visibility": "everyone",
       "flagged": false,
-      "gear_id": null,
+      "gear_id": "g32037271",
       "start_latlng": [
         40.669191,
         -73.984668
@@ -177,7 +246,7 @@
       "private": false,
       "visibility": "everyone",
       "flagged": false,
-      "gear_id": null,
+      "gear_id": "g32037271",
       "start_latlng": [
         40.668908,
         -73.984061
@@ -502,7 +571,7 @@
       "private": false,
       "visibility": "everyone",
       "flagged": false,
-      "gear_id": null,
+      "gear_id": "g32037271",
       "start_latlng": [
         40.668916,
         -73.984343
@@ -571,7 +640,7 @@
       "private": false,
       "visibility": "everyone",
       "flagged": false,
-      "gear_id": null,
+      "gear_id": "g32037271",
       "start_latlng": [
         40.668938,
         -73.984619
@@ -613,7 +682,7 @@
       "total_elevation_gain": 77.7,
       "type": "Run",
       "sport_type": "Run",
-      "workout_type": 0,
+      "workout_type": null,
       "device_name": "Garmin Forerunner 55",
       "id": 19207755133,
       "id_str": "19207755133",
@@ -640,7 +709,7 @@
       "private": false,
       "visibility": "everyone",
       "flagged": false,
-      "gear_id": null,
+      "gear_id": "g32037271",
       "start_latlng": [
         41.522349,
         -71.473636
@@ -709,7 +778,7 @@
       "private": false,
       "visibility": "everyone",
       "flagged": false,
-      "gear_id": null,
+      "gear_id": "g32037271",
       "start_latlng": [
         41.522201,
         -71.473893
@@ -13132,71 +13201,6 @@
       "from_accepted_tag": false,
       "pr_count": 0,
       "total_photo_count": 5,
-      "has_kudoed": false
-    },
-    {
-      "resource_state": 2,
-      "athlete": {
-        "id": 18129104,
-        "id_str": "18129104",
-        "resource_state": 1
-      },
-      "name": "Morning Run",
-      "distance": 7358.3,
-      "moving_time": 2305,
-      "elapsed_time": 2808,
-      "total_elevation_gain": 69.7,
-      "type": "Run",
-      "sport_type": "Run",
-      "workout_type": null,
-      "device_name": "Strava App",
-      "id": 15670135183,
-      "id_str": "15670135183",
-      "start_date": "2025-09-02T11:33:49Z",
-      "start_date_local": "2025-09-02T07:33:49Z",
-      "timezone": "(GMT-05:00) America/New_York",
-      "utc_offset": -14400.0,
-      "location_city": null,
-      "location_state": null,
-      "location_country": null,
-      "achievement_count": 1,
-      "kudos_count": 20,
-      "comment_count": 0,
-      "athlete_count": 1,
-      "photo_count": 0,
-      "map": {
-        "id": "a15670135183",
-        "summary_polyline": "itl|FtufsLh@MP?n@IDKCCGAYJeBVy@Pe@NQRGBq@Rq@Lk@RKDWXa@p@IXId@a@fECPCxANv@Xp@Nl@P`@FZp@tBN`ADnACpAIr@Av@u@`IAbA@X\\bBPVn@b@TJVF`@BRAREXKZQFMRUf@w@TOb@MVCNGnAMPI`@IP@JF_ANMFQ?[H{@NQ@c@LWTa@r@OJKN_@Vk@P[@w@Km@]]a@Sc@EOKSGc@GgA@g@P}ALsBDMLuBFe@Fy@?wBGcAISIa@M[I_@i@uACOa@uAIIO@aClASVw@tASZKFg@ROBIF_@BEB_@@YGSIQAIFMz@Cf@@fBBVAhBBt@D~CLbA@PZbB@PLt@\\tAV`@ZXv@^RT`@|@`@pA`@r@FTZjAVv@BLDpAPvADl@CLG?CK@SBG?UKaBO}AOe@]y@k@eBcAqCYWSIo@_@MCKOKGOSSgAOgAIUOqAI[MuB?gCGaB@OEaCF_AHa@HSDUi@yBWwAEa@_@iBMm@MWQW[S_@K]Ae@DKDO?UDaAHcAPqALIDKAMDQ?QDm@FUD[N}@Rc@D{@?SBOH]@ICCCCG@IBIJEj@LP?NB\\Ax@K^CFCJ@jAWv@It@GdBYlBS\\Gp@Ep@F`@T^^Nb@Pz@NfAL\\Db@FTJt@HRHh@Xf@f@TNLR@|@Gz@[RQd@eAT_@X]zBiANYDOEy@B{@Hk@Du@BIBa@Hk@Fu@J]h@}@\\Yl@UZEt@QtC{@fC[JG@E?OESCg@MgAOaCSqAGq@EMOoAYyAEKOMi@NKFQ@_@R{@TMHuA\\c@PEA?EVQdAY^DRIVEHINCLILCVKJAj@UH?LNHZDDL~@LZPx@B\\L~@@ZFVDr@BHJrAFxAG`@INgAPq@HMD",
-        "resource_state": 2
-      },
-      "trainer": false,
-      "commute": false,
-      "manual": false,
-      "private": false,
-      "visibility": "everyone",
-      "flagged": false,
-      "gear_id": "g23798543",
-      "start_latlng": [
-        41.522306,
-        -71.473562
-      ],
-      "end_latlng": [
-        41.522397,
-        -71.473416
-      ],
-      "average_speed": 3.192,
-      "max_speed": 4.32,
-      "has_heartrate": false,
-      "heartrate_opt_out": false,
-      "display_hide_heartrate_option": false,
-      "elev_high": 61.2,
-      "elev_low": 27.8,
-      "upload_id": 16737941042,
-      "upload_id_str": "16737941042",
-      "external_id": "18CAD45E-FF69-4B51-8F6D-98F75D7F6497-activity.fit",
-      "from_accepted_tag": false,
-      "pr_count": 0,
-      "total_photo_count": 0,
       "has_kudoed": false
     }
   ]
