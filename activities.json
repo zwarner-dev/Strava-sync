@@ -1,7 +1,72 @@
 {
-  "last_updated": "2026-08-10T08:21:59.452289Z",
+  "last_updated": "2026-08-11T08:05:16.476774Z",
   "activity_count": 200,
   "activities": [
+    {
+      "resource_state": 2,
+      "athlete": {
+        "id": 18129104,
+        "id_str": "18129104",
+        "resource_state": 1
+      },
+      "name": "Monday sbrc",
+      "distance": 8782.7,
+      "moving_time": 2985,
+      "elapsed_time": 6104,
+      "total_elevation_gain": 46.8,
+      "type": "Run",
+      "sport_type": "Run",
+      "workout_type": null,
+      "device_name": "Strava App",
+      "id": 19680511983,
+      "id_str": "19680511983",
+      "start_date": "2026-08-10T10:43:21Z",
+      "start_date_local": "2026-08-10T06:43:21Z",
+      "timezone": "(GMT-05:00) America/New_York",
+      "utc_offset": -14400.0,
+      "location_city": null,
+      "location_state": null,
+      "location_country": null,
+      "achievement_count": 0,
+      "kudos_count": 25,
+      "comment_count": 0,
+      "athlete_count": 2,
+      "photo_count": 0,
+      "map": {
+        "id": "a19680511983",
+        "summary_polyline": "wnfwFjvqbMU\\Oh@@Ne@bAa@bBe@~@?HKXG`@g@r@I`@QXQj@_@d@W|@OTE^Yh@M^MRk@pAQd@]vAGFCLPXBb@JRHDZ`@HD?Fi@|@K^MR]dA[j@c@dAYv@[l@Of@S^c@dBYx@[j@IXa@l@GXO^Gh@ONOf@a@xCKTKx@KASUIB]QQ?IY[CWMi@ESQg@O_A]SQg@Om@_@aAYcAe@w@KGGAUHELd@ZXd@F`Ah@j@JRTpAb@lCx@FD@NRHHV?GTVr@TDJPDNLx@R`@Xp@Tv@JHHTBVVt@XRBl@VJNN@xCfApAp@n@R`@BfA`@@F[jAMz@g@hCQlA?b@Pf@a@nBKx@RLz@N`@Rb@b@Vj@Dd@?r@Ej@WhABLFFHVNVXRbAb@dARVTfA`@XPAPWz@oAbHBf@NFHRf@h@fBl@hDvAGNYFUEQWWU_@GQDWTK^?b@Fj@ERMHi@QQFE`@EhBGDcADSKYCiBfAo@hCEf@Jt@AJ_@x@_AvAe@FYPGCwDwEk@y@QIEBaDhFy@fBc@^Wh@c@j@}@`BG@i@g@Qa@e@i@QKMU{@s@MWOE]UKWk@w@Kc@]SKWi@m@KWu@q@OUIGIQIE_@o@[_@a@Yi@aAgAiAS[s@w@GQUUKAM_@_A_A?GOMQ]w@aAKUW[c@a@CKOICKe@_@_@g@a@q@{@y@OWKE_BwBq@o@aAqAH?KEYe@QIYq@m@Ya@GMKCM?]JYBw@`@eCRi@De@Pk@@g@K[QGUQw@W[CaB{@AC@UNw@JQBQACZo@NQAWFUAa@NgA\\gAHo@JIF_AZkA?_@Ru@Hs@LWLu@DEJo@JWCW@a@FIV?QYDe@Nc@Jq@`@o@Bk@Xu@Dk@A]Da@NJ~Ap@J?LOHU?QDURa@Ry@NSBg@Xw@Ha@NW@YDCN?TQx@r@XJLPoCx@jg@dLDOJKLk@b@y@Z}@LOBSb@aAHa@LQVw@Vi@f@aBJMXm@F[HITi@@UVo@DUEM@Oc@]CIe@_@CE@Gb@k@?Ip@{AF_@n@wALSDa@`@u@@OKT@KJIDSf@yAT[FYLQRy@PWHGDMNQF]PUBMASVi@B]HSG[FQFCBGBYFWHK@Mx@kB",
+        "resource_state": 2
+      },
+      "trainer": false,
+      "commute": false,
+      "manual": false,
+      "private": false,
+      "visibility": "everyone",
+      "flagged": false,
+      "gear_id": "g32037271",
+      "start_latlng": [
+        40.66934,
+        -73.985023
+      ],
+      "end_latlng": [
+        40.669339,
+        -73.98425
+      ],
+      "average_speed": 2.942,
+      "max_speed": 5.1,
+      "has_heartrate": false,
+      "heartrate_opt_out": false,
+      "display_hide_heartrate_option": false,
+      "elev_high": 22.2,
+      "elev_low": 1.9,
+      "upload_id": 20809989549,
+      "upload_id_str": "20809989549",
+      "external_id": "D725D9D6-EC1D-43CE-99B6-9DFC7B31AA0C-activity.fit",
+      "from_accepted_tag": false,
+      "pr_count": 0,
+      "total_photo_count": 2,
+      "has_kudoed": false
+    },
     {
       "resource_state": 2,
       "athlete": {
@@ -28,7 +93,7 @@
       "location_state": null,
       "location_country": null,
       "achievement_count": 0,
-      "kudos_count": 42,
+      "kudos_count": 43,
       "comment_count": 0,
       "athlete_count": 1,
       "photo_count": 0,
@@ -13181,70 +13246,6 @@
       "from_accepted_tag": false,
       "pr_count": 2,
       "total_photo_count": 3,
-      "has_kudoed": false
-    },
-    {
-      "resource_state": 2,
-      "athlete": {
-        "id": 18129104,
-        "id_str": "18129104",
-        "resource_state": 1
-      },
-      "name": "Morning Walk",
-      "distance": 4456.1,
-      "moving_time": 1442,
-      "elapsed_time": 2049,
-      "total_elevation_gain": 0.0,
-      "type": "Walk",
-      "sport_type": "Walk",
-      "device_name": "Strava App",
-      "id": 15941307640,
-      "id_str": "15941307640",
-      "start_date": "2025-09-26T10:52:16Z",
-      "start_date_local": "2025-09-26T06:52:16Z",
-      "timezone": "(GMT-05:00) America/New_York",
-      "utc_offset": -14400.0,
-      "location_city": null,
-      "location_state": null,
-      "location_country": null,
-      "achievement_count": 0,
-      "kudos_count": 25,
-      "comment_count": 0,
-      "athlete_count": 24,
-      "photo_count": 0,
-      "map": {
-        "id": "a15941307640",
-        "summary_polyline": "s~gwFrtsbMXLNLn@RdAf@`@H~@\\TP~Bv@x@f@r@P\\FZ@VHN@\\XHDABVP^Hx@XJRERTZNJB?NBh@Vd@NVDb@PPBFHPDVN`@Rf@Nh@Tt@Pl@XLJxA`@RHDDeBfJ?VNr@?LOv@KZObABHTFP?JBh@T\\RVVN\\J`@Dd@G|@W`BLRDRRVNJnAf@PDZ@JDb@Zx@^PBJH?ZI\\[xASlAQx@Il@Mj@A`@FRXd@HFh@PXNfA\\f@V|Af@PJDHABI@MJE@GCEF[m@]SQC[FUTIREN?h@Hj@AJKFE?E?OOQCMDGDEf@B\\Cx@CLEFSCo@Da@MO?gAj@c@\\KT[xBB~@DNCRs@dAk@bAIHg@DOXWXWPKAk@_AeC{CGMUQK?SP}AhCGNaAfBUT[d@[l@w@jASb@EBAH@IUSGQWSCI_@c@QYOEKSMMQ[_@_@MW_@c@?SIQKGSCGGEAOQ@M[YMOIGSc@i@a@EO}AiBk@w@GGKOYSIOKIMYEAUa@WYEI]YEQSOKOKG_@o@a@i@kAeACKOQISW_@SMKSUYOIGQQMU[o@s@",
-        "resource_state": 2
-      },
-      "trainer": false,
-      "commute": false,
-      "manual": false,
-      "private": false,
-      "visibility": "everyone",
-      "flagged": false,
-      "gear_id": "g23798543",
-      "start_latlng": [
-        40.680699,
-        -73.996744
-      ],
-      "end_latlng": [
-        40.682706,
-        -74.006407
-      ],
-      "average_speed": 3.09,
-      "max_speed": 4.38,
-      "has_heartrate": false,
-      "heartrate_opt_out": false,
-      "display_hide_heartrate_option": false,
-      "elev_high": 19.3,
-      "elev_low": 1.7,
-      "upload_id": 17021960663,
-      "upload_id_str": "17021960663",
-      "external_id": "DC59739F-C8A2-405C-BADF-36BDEEB5B806-activity.fit",
-      "from_accepted_tag": false,
-      "pr_count": 0,
-      "total_photo_count": 0,
       "has_kudoed": false
     }
   ]
